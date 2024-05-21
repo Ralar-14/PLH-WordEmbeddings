@@ -4,3 +4,8 @@ spacy
 scipy==1.10.1
 gensim
 torch
+scikit-learn
+matplotlib
+plotly
+pandas
+nbformat>=4.2.0
