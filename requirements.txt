@@ -8,4 +8,5 @@ scikit-learn
 matplotlib
 plotly
 pandas
+fasttext
 nbformat>=4.2.0
