@@ -1,0 +1,494 @@
+	id	sentence1	sentence2	avg
+0	ACN2_1018	L'euríbor puja una centèsima fins el -0,189% al gener després de setze mesos de caigudes	La morositat de bancs i caixes repunta moderadament fins el 9,44%, després d'onze mesos de caigudes	1.67
+1	ACN2_244	Demanen 3 anys de presó a l'ex treballador d'una farmàcia de Lleida per robar més de 550 unitats de Viagra i Cialis	L'extreballador d'una farmàcia de Lleida accepta sis mesos de presó per robar més de 500 unitats de Viagra i Cialis	2.0
+2	ACN2_157	Es tracta d'un jove de 20 anys que ha estat denunciat als Mossos d'Esquadra	Es tracta d'un jove de 21 anys que ha estat denunciat penalment pels Mossos	3.0
+3	ACN2_797	Creixen un 7,3% els passatgers dels autobusos interurbans de l'ATM de Girona durant el primer semestre del 2019	Creixen un 3,18% els usuaris del transport públic de l'ATM de Lleida durant el primer semestre del 2016	2.75
+4	Oscar2_269	Els participants es poden inscriure a la pàgina www.formenterasport365.com fins el divendres 08 d'abril a les 21.00 hores.	Els esportistes es poden inscriure a la plana web www.elitechip.net fins al pròxim dijous 25 de febrer a les 20.00 hores.	2.5
+5	ACN2_923	Com a mesura preventiva, també hi ha anat tres patrulles dels Mossos d'Esquadra, efectius de la Policia Local i una ambulància del Sistema d'Emergències Mèdiques (SEM).	Com a mesura preventiva, el Sistema d'Emergències Mèdiques (SEM) ha desplaçat una ambulància al lloc de l'incendi.	2.75
+6	Viqui2_589	La pedra és utilitzada en els emmarcaments de les obertures, les balustrades i un escut a la tribuna nord.	La façana posterior té franges i cantoneres de pedra amb obertures de mig punt, cornisa amb permòdols i coronament amb barana de balustres.	1.75
+7	TE2_175	Va estudiar química a les universitats de Califòrnia, on es va llicenciar el 1967, i Harvard, on es va doctorar el 1971.	Va estudiar física a la Universitat Autònoma de Barcelona, on es va llicenciar el 1975 i posteriorment, el 1981 es va doctorar.	2.5
+8	TE2_94	Sariegos és un municipi de la província de Lleó, a la comunitat autònoma de Castella i Lleó.	Poyales del Hoyo és un municipi de la província d'Àvila a la comunitat autònoma de Castella i Lleó.	2.5
+9	TE2_179	Es va acollir al seu dret a no declarar i el jutjat va ordenar el seu ingrés a presó per un delicte d'assassinat.	Després de declarar davant el jutge, es va ordenar el seu ingrés a la presó.	2.25
+10	Oscar2_247	El darrer dia d'entrenament de l'any serà el dijous 22 de Desembre i tornarem a iniciar el dilluns 9 de Gener del 2017.	El darrer dia del curs serà el dimecres 21 de juny.	1.75
+11	ACN2_119	La Generalitat intervé la residència de Segur de Calafell on hi ha hagut un brot de covid-19 amb 82 positius	S'eleven a 82 els casos positius de covid-19 en una residència de gent gran de Segur de Calafell	2.5
+12	Viqui2_713	Va ser el primer militant de la Joventut Comunista a ser diputat al Congrés.	Va ser militant del Partit Socialista Obrer Espanyol (PSOE).	2.0
+13	Viqui2_788	"Cinaglio, (""Sinaj"" o ""Sinacc"" en piemontès) és un municipi situat al territori de la província d'Asti, a la regió del Piemont (Itàlia)."	"Cortiglione, (""Corgèli"" o ""Cortijon"" en piemontès) és un municipi situat al territori de la província d'Asti, a la regió del Piemont (Itàlia)."	3.25
+14	ACN2_596	L'atur augmenta en 13 persones a la demarcació de Lleida al maig i la xifra de desocupats se situa en 23.492	L'atur augmenta en 801 persones a la demarcació de Lleida al març i la xifra de desocupats se situa en 21.816	2.75
+15	ACN2_685	La Policia Local trasllada el cas a la DGAIA	Contagis a la Policia Local i la Brigada	0.33
+16	Viqui2_90	L'accés a la casa es realitza a través de dues rampes, el portal, reconstruït, conserva les pedres laterals.	L'accés al temple es realitza a través de dues portes situades al mur de migdia.	1.75
+17	Oscar2_614	Instal·lacions Mañas Bronchut és una empresa especialitzada en refrigeració industrial i comercial.	TALLERS PACS és una empresa consolidada en el sector industrial, especialitzada en el manteniment de maquinària industrial i instal·lacions.	2.0
+18	Oscar2_132	I moltes gràcies a tots i totes per participar:	Moltes felicitats i moltes gràcies per participar a tots i totes!!!	4.0
+19	ACN2_131	Els manifestants ocupen l'Imperial Tarraco durant una hora fent jocs de taula	Els manifestants ocupen l'Imperial Tarraco i fan jocs de taula	4.0
+20	Viqui2_625	També a pintar el retaule per al convent de l'Encarnació de Madrid, entre 1613 i 1617.	L'any 1645 Murillo pintà tretze quadres per al claustre petit del convent de Sant Francesc de Sevilla, on va treballar de 1645 a 1648.	1.75
+21	TE2_80	El festival comptarà amb cinc escenaris i se celebrarà entre el 7 i el 9 de juliol al Parc del Fòrum.	El festival se celebrarà el 7 i 8 de juliol al Parc del Fòrum de Barcelona	3.0
+22	ACN2_217	Pronunciament sobre la suspensió de la normativa catalana	La normativa catalana contra el 'fracking'	1.25
+23	Oscar2_609	Aleshores hi posarem un got de vi i continuarem amb la cocció fins que s'hagi evaporat el vi i ho salpebrarem.	Mentre, hi posarem el vi al sofregit i deixarem coure uns 7/8′, fins que el vi s'evapori.	3.0
+24	ACN2_388	El telèfon d’emergències 112 ha rebut 70 trucades alertant del foc	El telèfon d'emergències ha rebut 41 trucades alertant del foc	3.0
+25	Viqui2_48	L'arboç grec (Arbutus andrachne) és un arbust o un petit arbre dins la família ericàcia.	"El ginjoler (""Ziziphus jujuba"") és un arbust o arbre petit de la família de les ""Rhamnaceae""."	2.75
+26	Viqui2_519	"També va publicar històries de Peig Sayers a la revista ""Béaloideas"" (Folklore)."	"També va escriure cròniques musicals per la revista ""L'Imparcial""."	2.0
+27	ACN2_1072	Mentre han estat davant la comandància, els manifestants han cridat consignes a favor de la independència i han cantat cançons com 'L'estaca'.	Entre les consignes que han cridat s'ha pogut escoltar càntics com 'els carrers seran sempre nostres' i contínues consignes en favor de la independència.	3.0
+28	Viqui2_587	Els cinc municipis ocupen una superfície de poc més de 100 km2 i conjuntament sumen una població total aproximada de 3.691 habitants (any 2019).	Té una població d'1.811.177 habitants (2005) repartits en 104 municipis d'una superfície total de 14.001 km2.	2.67
+29	Oscar2_406	Això per a mi és d'un valor incalculable.	Això és un valor afegit, un valor més.	1.5
+30	ACN2_1169	El 061 CatSalut Respon ha atès una mitjana de 6.000 alertes diàries durant el 2017, un 11,4% més que l'any anterior	El 112 atén 747.730 trucades durant el primer semestre, un 9,6% més que l'any passat	2.67
+31	TE2_101	Puig tenia una audiència pel cas de la seva extradició el pròxim 30 de març i Valtònyc el 24 de març.	L'exconseller tenia una audiència pel cas de la seva extradició el pròxim 30 de març i el raper el 24 de març	4.75
+32	Oscar2_8	Passat el pont anem pel primer camí a l'esquerra.	Seguim pel camí de la dreta un cop hem travessat el pont.	3.0
+33	ACN2_706	Hi ha assistit l'executiva de la formació, diputats al Parlament i al Congrés, i alcaldes del partit, entre d'altres	Hi assisteixen, entre d'altres, els líders del PP, de Ciutadans, dos ministres socialistes i la presidenta del Congrés	2.0
+34	Viqui2_427	"L'espècie tipus del gènere és ""P. veronense"" (Zigno, 1887)."	"1851 L'espècie tipus és: ""Trachelospermum jasminoides"""	3.0
+35	ACN2_1196	PP i Cs forcen la compareixença de Pedro Sánchez per les sospites de plagi de la seva tesi doctoral	Teodoro García recorda a Cs que s'equivoca d'adversari i insisteix en demanar explicacions a Sánchez per la tesi	2.0
+36	Oscar2_125	Sempre hi ha coses més importants a fer, sembla.	Però hi ha coses molt més importants que això.	2.75
+37	Oscar2_268	Posem els pinyons i deixem reposar, a resguard de les corrents d' aire, aproximadament 1 hora i 1⁄2.	Posem el capó en uns safata i el deixem coure durant 1 hora.	1.25
+38	Viqui2_1	El coll ha estat superat en 13 ocasions pel Tour de França	El coll del Glandon ha estat superat en 15 ocasions pel Tour de França.	3.0
+39	Viqui2_855	Banc Agrícol i Comercial d'Andorra, conegut com a Banc Agrícol, va ser una entitat bancària d'Andorra fundada l'any 1930.	Banca Privada d'Andorra (BPA) és una entitat bancària de capital 100% andorrà fundada l'any 1957.	3.0
+40	Viqui2_323	"Talairan (en occità ""Talairan"") és un municipi francès, situat al departament de l'Aude i a la regió d'Occitània."	"Cranta (en francès ""Quarante"") és un municipi occità del Llenguadoc, situat al departament de l'Erau i a la regió d'Occitània."	2.5
+41	Oscar2_512	Conjunt rural del segle XVI amb 4 habitacions dobles i tots els equipaments disponibles per gaudir d'una estada inoblidable amb els teus.	Conjunt rural del segle XVI amb capacitat per a 4 persones i tots els equipaments disponibles per gaudir d'una estada inoblidable amb els teus.	3.0
+42	Viqui2_158	Nova Zelanda i Austràlia foren les amfitriones del torneig.	L'amfitrió i els altres tres millors equips de la Copa del Món anterior: Sud-àfrica, Nova Zelanda i França.	1.75
+43	Viqui2_779	L'altitud mitjana de les muntanyes Flamejants és de 500 m amb alguns pics que arriben als 800 m.	Els altiplans del sud i de l'est tenen una altura mitjana de 1.000 metres i rarament baixen dels 600 metres.	1.75
+44	Oscar2_402	Un nou barranc a la Sierra de Guara, amb un gran ambient, tècnic i aquàtic.	Un nou viatge a la Serra de Guara per fer un barranc atractiu i llarg, amb un gran ambient.	2.5
+45	ACN2_618	El TSJC obliga la Generalitat a pagar més d'1 MEUR a Esplugues pel finançament de les escoles bressol	El TSJC obliga la Generalitat a pagar més d'un milió d'euros a l'Hospitalet per les subvencions de les escoles bressol	2.75
+46	Viqui2_293	El seu recorregut és bastant paral·lel al del torrent de Garonda.	El seu recorregut és paral·lel al riu i desemboca al torrent de la Coma.	2.67
+47	Oscar2_10	Des de fa 20 anys viu a Mallorca.	Nascuda a Llucmajor, fa vint anys que visc a Palma.	3.0
+48	Viqui2_128	Espai d'estats es refereix a l'espai vectorial els eixos del qual són les variables d'estat.	L'espai d'estats és l'espai els eixos del qual són les variables d'estat.	3.5
+49	ACN2_919	L'empresa, que compta amb 454 treballadors a nivell internacional, preveu arribar a duplicar la plantilla a la capital catalana aquest 2017	La companyia catalana preveu ampliar la plantilla de 17 a 30 treballadors	2.5
+50	Viqui2_464	Entre altres llocs, se n'han trobat restes fòssils a Santpedor, Fonollosa, Collsuspina i Santa Coloma de Queralt.	Entre altres llocs, se n'han trobat restes fòssils al jaciment paleontològic dels Casots (Alt Penedès).	3.0
+51	ACN2_611	Vulneració del dret a un jutge imparcial	Vulneració del dret a la llibertat	2.67
+52	ACN2_861	Rajoy renya el Congrés: “El parlament d’un país de la UE no pot dir que no vol complir sentències del tribunal europeu”	L’eurodiputat Matt Carthy defensa que la UE digui a Espanya que “no pot negar el dret a decidir”	1.25
+53	ACN2_291	El Camp Nou s'omple d'estelades en protesta per les sancions de la UEFA	La UEFA desestima el recurs del Barça per les estelades al Camp Nou	2.0
+54	ACN2_383	Dia Internacional del Nen Prematur	El 'primer' Dia Internacional de la Dona	1.0
+55	Oscar2_42	Bombes ideals per a sistemes de filtració de piscines domèstiques i col·lectives.	Dissenyades per recircular aigua a sistemes de filtració de piscines domèstiques i col·lectives.	3.0
+56	ACN2_1007	Els individus anaven encaputxats i vestits amb roba fosca per passar desapercebuts	Els lladres van ser enxampats 'in fraganti' per una patrulla de mossos vestits de paisà	1.67
+57	Oscar2_613	No dubteu a posar-vos en contacte amb nosaltres si voleu un pressupost o si ens voleu fer una consulta.	Si voleu més informació no dubteu en posar-vos en contacte amb nosaltres!	2.75
+58	Oscar2_663	Intercolor escull una de les propostes de tendències de color de l'ESDiColor_LAB com a tendència de la temporada tardor-hivern 2014-2015.	El laboratori de tendències de l'ESDi presenta les seves tendències de color per a la temporada tardor-hivern 17/18	2.25
+59	ACN2_1121	Denuncien un conductor que circulava begut i va provocar un accident amb un ferit greu a Cubelles	Detenen un home que circulava begut i drogat i que va provocar un accident frontal a la C-55	2.75
+60	ACN2_51	Mor l’home que va intentar rescatar dues menors a la platja de Segur de Calafell	Un home queda en estat crític després d’intentar rescatar dues menors a la platja de Segur de Calafell	2.0
+61	ACN2_702	Els treballadors han anunciat que convocaran més aturades el 16 i el 23 de juny	Els sindicats d’estibadors han anunciat aturades els dies 20, 22 i 24 de febrer	2.67
+62	ACN2_440	La inversió s’enfila als 1,66 milions d’euros	La inversió s’incrementa en 500.000 euros fins a 1,5 milions	2.75
+63	ACN2_1094	Terres de l'Ebre: increment de casos a Tortosa	Camp de Tarragona i Terres de l'Ebre	1.33
+64	ACN2_1182	El 40è Festival Internacional de Música Pau Casals es cancel·la pel coronavirus	Poblet suspèn el Festival de Música Antiga i el Festival Internacional d'Orgue per la covid-19	2.5
+65	TE2_73	Està situada a l'extrem nord-est del nucli de població.	Està ubicada a l'extrem sud-est del nucli urbà del poble.	3.0
+66	Viqui2_266	Fou alumne del Col·legi Casp-Sagrat Cor de Jesús.	Va estudiar en el Col·legi del Sagrat Cor.	3.0
+67	Viqui2_195	El 17 de febrer de 2008, Kosovo va declarar la seva independència de manera unilateral, sense que el govern serbi reconegui el nou estat.	Tanmateix, entre febrer i març de 1992 el govern va declarar un referèndum nacional de la independència bosniana de Iugoslàvia.	1.5
+68	TE2_103	La Copa Ucraïnesa de futbol és la segona competició futbolística d'Ucraïna.	La Copa estoniana de futbol (Eesti Karikas) és la segona competició futbolística d'Estònia.	2.75
+69	Viqui2_586	La germana del rei Kakatiya Ganapati Deva, Melambika, es va casar amb el segon fill de Chagi Buddaraju, qui governava la regió de Natavadi.	El fill de Damodaragupta, Mahasenagupta, es va aliar amb la dinastia Pushyabhuti (o Vardhana).	1.25
+70	Viqui2_365	La seva pluviometria anual és de 308 litres i pràcticament no plou d'agot a desembre.	La mitjana anual és de -2.4 °C i la pluviometria de només 336 litres.	2.25
+71	Oscar2_272	"També ha competit Ivan Hompanera, reconegut migfondista internacional que va realitzar una marca de 5'06""78 en el 1500mll."	"També va competir Ivan Hompanera, reconegut migfondista internacional que va realitzar una marca de 2'17""20 en el 800mll."	3.0
+72	ACN2_690	L'acusat haurà de comparèixer setmanalment al jutjat, se li ha retirat el passaport i se li ha prohibit costar.-se al seu fill a una distància inferior a 500 metres	El jutge li ha retirat el passaport i l'obliga a comparèixer cada quinze dies	2.75
+73	TE2_107	"Magesc (en francès ""Magescq"") és un municipi francès, situat al departament de les Landes i a la regió de la Nova Aquitània."	Xaintray és un municipi francès, situat al departament de Deux-Sèvres i a la regió de la Nova Aquitània.	2.5
+74	ACN2_879	La decisió l'ha ratificada aquest dimecres la Junta Directiva de la patronal	La Junta de Portaveus ho ha acordat aquest dimarts	1.67
+75	ACN2_988	Territori i Sostenibilitat inverteix 520.000 euros en una rotonda a l'accés sud de Ripoll	Territori adjudica les obres per construir una rotonda a la carretera de Bellcaire amb una inversió de 570.000 euros	2.5
+76	Viqui2_402	L'edifici es documenta ja l'any 1370.	L'actual casa ja es documenta vers l'any 1279.	3.0
+77	ACN2_962	Etihad Airways s'estrena a l'aeroport del Prat amb el primer vol de la ruta entre Barcelona i Abu Dhabi	L'Aeroport del Prat estrena un nou vol directe entre Barcelona i Mèxic DF	2.0
+78	ACN2_367	És una proposta del PP que ha comptat amb el suport d'aquet grup, el PSC, Cs i els Demòcrates, les abstencions de BComú i els regidors no adscrits i l'opisicó de la CUP	La proposta ha tirat endavant amb el suport de BComú, CiU, ERC i la CUP i amb els vots en contra de C's, PSC i PP	2.0
+79	ACN2_1124	L'ICS adapta les màquines de menjar i beure de l'HVCT amb productes saludables	Salut recomana a hospitals i centres sanitaris que les màquines expenedores ofereixin menjar i begudes saludables	2.0
+80	ACN2_228	El Suprem revisarà un recurs contra les sortides de Forcadell de Mas d'Enric per fer voluntariat i cuidar la mare	Forcadell surt de Mas d'Enric per reprendre el voluntariat i la cura de la seva mare	2.0
+81	Oscar2_636	"La campana té, en primer lloc, una inscripció al terç amb l'advocació a la qual està dedicada: ""NTRA SRA DEL NIÑO PERDIDO""."	"La campana té, en primer lloc, una senzilla inscripció al terç amb l'advocació a la qual està dedicada: ""SANTA AGUEDA""."	3.0
+82	Oscar2_419	Els que hauriem d'espavilar som els catalans.	Els catalans ja som grandets i volem decidir per nosaltres mateixos.	1.75
+83	ACN2_534	La xifra de viatgers a l'Aeroport del Prat creix un 6,7% al novembre i s'acosta als 50 milions a un mes de tancar l'any	La xifra de passatgers a l'Aeroport del Prat creix un 3,7% al gener fins als 3,4 milions	2.75
+84	TE2_204	Hi ha hagut un 5,22% de vots contraris (335), un 1,09% en blanc i un 0,05% de vots nuls.	Hi ha hagut 9 vots en blanc i cap nul.	1.75
+85	ACN2_197	La mobilitat estarà permesa entre regions en fase 3. Ja ho estava entre el Camp de Tarragona i les Terres de l'Ebre des de dilluns passat.	La mobilitat estarà permesa entre les regions de Camp de Tarragona i Terres de l'Ebre a partir de dilluns	2.0
+86	Viqui2_590	Es tracta d'una animal principalment nocturn i crepuscular.	Es tracta d'un animal crepuscular i nocturn.	4.25
+87	Viqui2_605	És el capità de la nau estel·lar USS Enterprise D de la Federació Unida de Planetes.	És el capità de nau estel·lar Enterprise (NX-01) des del 2151 al 2161 i posteriorment president de la Federació Unida de Planetes.	2.75
+88	Oscar2_2	Ideal per famílies o grups de 4.	Ideal per a parelles o famílies amb nens.	2.75
+89	ACN2_58	Catalunya comença a rebre els 180.000 tests de diagnòstic ràpid, segons el govern espanyol	El govern espanyol envia 180.000 tests de diagnòstic ràpid de coronavirus a Catalunya	3.5
+90	ACN2_762	Quan els bombers han arribat a l'hotel l'edifici ja estava evacuat. L'incendi ha estat extingit cap a quarts de dues del migdia.	Quan els Bombers han arribat el foc ja s'havia apagat amb un extintor	1.5
+91	Viqui2_787	Antoni de Bastero tenia 13 anys quan va morir el seu pare.	El seu pare va morir quan ella tenia 14 anys.	2.5
+92	ACN2_761	Tona acollirà el Festival Internacional de Màgia amb una vintena d'artistes i una programació adaptada a la covid-19	El 32è Festival Internacional de fotoperiodisme programa una vintena d'exposicions	1.5
+93	Oscar2_618	Alguns vegetals com la xicoira, la carxofa, l'espàrrec, la ceba, el porro, l'all o el plàtan contenen petites quantitats de FOS.	S'elaboren amb tomàquet, enciam, cogombre, ceba, api, llegums, i altres hortalisses.	1.0
+94	TE2_209	Es pot consultar i escriure des de la següent adreça:	Es pot consultar en el següent enllaç.	3.0
+95	ACN2_251	El Departament de Cultura obre una línia d'ajuts per promoure el català al cinema més enllà de les sales	El Departament de Cultura crearà una nova línia d'ajuts pel rodatge de cinema en català	2.5
+96	ACN2_1215	Les defuncions per la covid-19 s'eleven a 119 i es disparen els contagis amb 192 casos nous confirmats	Les funeràries registren 43 nous morts per covid-19 a Catalunya i eleven la xifra total a 11.554	2.67
+97	ACN2_386	La pensió mitjana s'ha situat a Catalunya en 968 euros, l'1,9% més que l'any passat	La pensió mitjana se situa al gener en 966 euros, l'1,9% més que el mateix mes de l'any passat	3.0
+98	ACN2_916	Els Mossos detenen tres homes a Lleida després de sorprendre'ls amb marihuana	Els Mossos detenen quatre homes per robar en dos domicilis de La Jonquera	2.0
+100	TE2_174	Està situada a l'extrem nord-est del nucli de població.	Està situada al bell mig de la vila, a l'extrem sud-est del que fou la vila closa.	2.25
+101	Oscar2_426	El Punt d'Informació Juvenil és el servei més actiu del centre.	El Casal de Joves de Masquefa ofereix un servei dirigit al col·lectiu juvenil del municipi: el Punt d'Informació Juvenil (PIJ).	1.75
+102	Viqui2_596	Militant del Partit Popular de Menorca, de 1994 a 1996 fou regidor a l'ajuntament de Maó.	També fou president del Partit Popular de Menorca de 1999 a 2008.	2.0
+103	Viqui2_232	És cofundador del segell i duet de producció Basic Channel.	Va cofundar el segell musical Basic Channel amb Mark Ernestus al 1993.	3.25
+104	Viqui2_245	Corona l'edifici un fris on es col·loquen mènsules que aguanten una cornisa.	Corona la façana un fris de dentellons i una cornisa.	3.25
+105	ACN2_1135	El fiscal demana 119 anys de presó pel líder d'Ausbanc i 25 pel de Manos Limpias per extorsionar bancs i Cristina de Borbó	L'Audiència de Palma condemna a 6 anys i 3 mesos de presó Urdangarin pel 'cas Nóos' i absol la Infanta Cristina	1.5
+106	ACN2_245	Els preus augmenten vuit dècimes a l’abril a Girona i situen la inflació anual en el -1%	Els preus augmenten vuit dècimes a l’abril a Lleida i situen la inflació anual en el -1,2%	3.0
+107	Viqui2_180	Fou nominada a la Conquilla d'Or al Festival Internacional de Cinema de Sant Sebastià.	Fou premiada amb la Conquilla de Plata al Festival Internacional de Cinema de Sant Sebastià 1967.	2.5
+108	Oscar2_629	Un dels plats que més agrada a casa.	és dels plats que a casa ens encanten!	4.5
+109	ACN2_18	L’edició més internacional del Festival REC de Tarragona aixeca el teló	Tarragona presenta el Festival REC més internacional	4.0
+110	ACN2_785	L'agressor va anar a casa a agafar dos ganivets de grans dimensions, després de discutir amb les víctimes a la discoteca	L'atracador, que ja ha ingressat a presó, anava tapat i intimidava les víctimes amb un ganivet de grans dimensions	1.5
+111	Oscar2_49	Declaració institucional del Fòrum de Participació per la Igualtat de Gènere en Burjassot pel Dia Internacional contra la Violència de Gènere	Moció per l'Eradicació de les Violències Masclistes i amb Motiu del Dia Internacional Contra la Violència Masclista	2.25
+112	Oscar2_441	"Un atre creuament entre els verps ""ser"" i ""haver"" que tampoc es valencià: Català ""no hi es"" (v. no hi ha)."	"En català hi ha un entrecreuament entre els verps ""ser"" i ""estar"" que no existix en valencià:"	2.75
+113	Oscar2_234	Va ser beneïda i pujada al campanar.	Després de beneïda es va pujar al campanar.	5.0
+114	Viqui2_541	Els limfòcits Th17 poden causar greus malalties autoimmunes.	Els metabolits de la fenilbutazona poden causar l'anèmia aplàstica en els éssers humans.	1.5
+115	TE2_223	Activitat per a famílies amb infants de 6 mesos a 3 anys.	Activitat adreçada a famílies amb nens de 7 a 12 anys.	2.75
+116	Viqui2_366	Es va traslladar a Sonora, Califòrnia, on va ser criada, quan tenia 5 anys.	Va créixer a Mokena i a Downers Grove fins que als 15 anys la família es va mudar a Oceanside, Califòrnia.	1.5
+117	ACN2_97	El Sistema d’Emergències Mèdiques ha revisat dues persones de manera preventiva per possible intoxicació per fum, però no han hagut de ser evacuades a cap centre mèdic.	S'han atès preventivament dues persones per una possible intoxicació de fum, però no ha calgut evacuar-les a centre mèdic	4.0
+118	ACN2_417	La Val d'Aran vol ser Patrimoni de la Humanitat de la Unesco	La UNESCO declara les falles del Pirineu Patrimoni Cultural Immaterial de la Humanitat	1.5
+119	ACN2_559	El sindicat portarà a la inspecció de treball les mesures de protecció en considerar-les insuficients	Mesures de protecció a inspecció de treball	3.67
+120	Viqui2_720	El seu germà petit, Hervé Alicarte, també és futbolista professional	El seu germà Yücel Çolak també fou futbolista professional.	3.25
+121	ACN2_289	Jean-François i el sentit de la vida', 'Formentera Lady' i 'Yo la busco', les altres nominades en la categoria	Les distàncies','Jean-François i el sentit de la vida', 'Formentera Lady' i 'Yo la busco' aspiren al Gaudí a millor film	3.0
+122	Viqui2_380	Quatre anys després va ser ordenat diaca.	Cinc anys més tard fou ordenat sacerdot jesuïta.	3.0
+123	Oscar2_617	3-4 Pas cap endavant amb peu esquerre, girar 1⁄4 de volta cap a l'esquerra fregant el taló dret cap endavant (03.00)	5-6 Pas endavant amb el peu esquerre - puntada de peu endavant fregant el terra (scuff) peu dret al costat de l'esquerre	2.25
+124	ACN2_726	La durada de l'estada majoritària és de quatre a set nits, amb gairebé dos milions de turistes i un augment anual del 2,6%.	La durada de l'estada majoritària a l'abril és de quatre a set nits, amb 3,8 milions de turistes i un creixement anual del 19,8%.	2.75
+125	Oscar2_593	La música és obra de Francesc Bofarull i la coreografia és de Lluís Musté i va acompanyat de xeremiers.	La peça i la coreografia són obra del vallenc Lluís Musté, i la música va ser composta per Francesc Bofarull.	3.25
+126	ACN2_679	‘El Punt Avui’ remarca en clau econòmica: “El greuge pel finançament es perpetua”	‘El Punt Avui’, en clau socioeconòmica: “L’atur es torna a feminitzar”	1.5
+127	Oscar2_539	Les sessions ordinàries de la Junta de Govern Local, tindran lloc setmanalment en la Sala de Comissions de l'ajuntament.	Les sessions ordinàries de la Junta de Govern Local tindran lloc l'últim dimecres no festiu de cada mes a les 17h.	3.0
+128	Oscar2_291	Però de vegades, tot es complica.	Però quant tot sembla més fàcil, tot es complica més.	2.25
+129	ACN2_1080	Els PGE destinen 120 MEUR al tren llançadora a l’Aeroport i 29 MEUR al Quart Cinturó a l’àmbit metropolità de Barcelona	Els PGE destinen 25,5 MEUR al Quart Cinturó i 14 MEUR a connectar l'AP-7 i l'A-2 a l'àmbit metropolità de Barcelona	2.75
+130	Viqui2_699	A la sala superior es conserva la mola sotana, coberta per la vegetació.	A la planta superior es conserva l'embigat de fusta.	2.5
+131	TE2_192	La selecció catalana de corfbol va debutar l'any 1999 al Campionat del Món d'Austràlia.	Va ser campió de la Copa del Món de Futbol 2002 al capdavant de la selecció brasilera.	1.5
+132	TE2_226	Va ser regidor a l'Olleria pel BNV del 1999 al 2003	Va ser elegit regidor de l'Ajuntament d'Organyà el 1991, càrrec que va ocupar fins el 1999.	2.5
+133	Oscar2_660	La IASA recomana un nombre de com a mínim 24 bits de codificació per mostra d'àudio per a capturar material analògic.	La IASA recomana una freqüència de mostreig mínima de 48 KHz per a la producció de còpies digitals a partir de qualsevol material analògic.	2.25
+134	Oscar2_190	Ha guanyat al Barça 28 a 29 en partit de Lliga ASOBAL.	El Barça B s'ha imposat al Xerez en la 21a jornada de la Lliga Adelante.	1.33
+135	Viqui2_8	La fortalesa és en major part obra de l'orde de Sant Joan de Jerusalem.	La cocatedral de Sant Joan fou l'església conventual dels cavallers de l'orde de Sant Joan.	1.75
+136	Oscar2_39	Si li interessa rebre més informació...	Si vols més informació de la BREENA.	3.0
+138	ACN2_240	El secretari d'Economia destaca que l'Airef pronostica un creixement del 0,7% per al quart trimestre, 2 dècimes més que l'any passat	L'Airef pronostica que l'economia catalana creixerà un 0,7% el quart trimestre, dues dècimes més que l'any passat	2.75
+139	Viqui2_697	"La Copa EU (en anglès: ""EU Cup""), també coneguda com a Eurocopa (""Euro Cup""), és una competició de futbol australià disputada entre seleccions nacionals europees."	"El Campionat d'Europa de futbol australià (en anglès: ""European Championships in Australian Football"") és una competició de futbol australià disputada entre seleccions nacionals europees ""16-a-side""."	3.0
+141	ACN2_912	Els populars promouran mocions en defensa de les diputacions a tots els ajuntaments de l'Estat	Els republicans portaran mocions a tots els ajuntaments, consells comarcals i diputacions	2.25
+142	Viqui2_881	Els blocador dels canals de calci són un grup de fàrmacs (i substàncies naturals) que alteren la conducció dels canals de calci.	Els bloquejadors dels canals de calci són vasodilatadors.	2.25
+143	Viqui2_818	A Metacritic rebé una puntuació de 39% basada en 30 crítiques.	A Rotten Tomatoes rebé una puntuació de 40% basada en 154 crítiques.	2.75
+144	ACN2_457	Restablerta la circulació dels FGC a l'estació de la UAB	Interrompuda la circulació de FGC a l'estació de la UAB per una manifestació d'estudiants	1.5
+145	Viqui2_506	Milan Stanković (en ciríl·lic: Милан Станковић) va néixer el 9 de setembre de 1987 a Belgrad, Sèrbia.	Branko Milanović (en serbi ciríl·lic: Бранко Милановић, mǐlanoʋitɕ), nascut el 24 d'octubre de 1953 a Belgrad, República Socialista de Sèrbia), és un economista serbi-americà.	2.0
+146	Oscar2_456	L'hotel ofereix restaurant, premsa, visites turístiques, biblioteca, servei de llançadora per garantir el més gran comfort possible als seus clients.	L'hotel ofereix recepció 24 hores, servei d'habitacions, lloguer de cotxes, restaurant, premsa per garantir el més gran comfort possible als seus clients.	3.0
+147	TE2_138	Set dotacions dels Bombers s'han desplaçat a la zona i han pogut donar per controlat el foc al cap de poc més d'una hora.	Set dotacions de bombers han treballat en les tasques d'extinció del foc que s'ha donat per controlat a la una del migdia	3.25
+148	Viqui2_723	Els serveis financers i béns i serveis proporcionen feina a 885.000 persones i representen el 14% del PIB de l'estat.	Els serveis governamentals donen feina a 1,7 milions de persones i representa el 12% del PIB de l'estat.	3.0
+149	ACN2_994	La consellera Vergés nomena el seu Consell Assessor de Salut	El Govern nomena Elvira Méndez presidenta del Consell Assessor per a la Reforma Horària	1.33
+150	ACN2_161	Més de deu carreteres, entre elles l'AP7, l'A-2, la C-60 i la C-58, tallades al trànsit arreu de Catalunya pel 21-F	Una desena de vies, entre elles l'AP7, l'A-2, la C-60 i la C-58, tallades al trànsit arreu de Catalunya pel 21-F	4.67
+151	Oscar2_250	Apartament ampli, reformat íntegrament, que compta amb tres habitacions dobles, totes elles amb armaris, un lavabo i un bany complet amb banyera.	Els apartaments compten amb quatre habitacions, totes elles amb armaris, un lavabo i un bany complet.	2.75
+152	Viqui2_157	El deuteri (hidrogen-2) es fa servir en aplicacions de fissió nuclear com un moderador per alentir els neutrons, i també en reaccions de fusió nuclear.	L'energia nuclear es basa en les reaccions nuclears de fissió d'elements pesats com ara l'urani i el plutoni, cosa que genera calor.	1.5
+153	Oscar2_56	Gaudiu de les comoditats d'alta gama com ara calefacció, mini bar, escriptori, insonorització, telèfon per tal de relaxar-vos després d'un cansat dia.	Gaudiu de les comoditats d'alta gama com ara aire condicionat, calefacció, servei de despertador, escriptori, mini bar per tal de relaxar-vos després d'un cansat dia.	3.0
+154	TE2_37	El film, de 134 minuts, està rodat en pla seqüència i narra la nit d'una noia espanyola a Berlin.	El film narra la nit d’una noia espanyola a Berlin i està rodada en pla seqüència	3.5
+155	Viqui2_273	Segons Plutarc, va reunir 98.000 homes, 12.000 cavallers i 500 vaixells.	Per contra, Plutarc va estimar que tenia uns 8.000 carros de guerra i 6.000 elefants.	1.5
+156	ACN2_315	Els manifestants han sortit de plaça Catalunya cap al col·legi Ramon Llull, escenari de càrregues policials fa dos anys	Els manifestants han sortit de plaça Catalunya cap a l'Institut Jaume Balmes, escenari de càrregues policials fa dos anys	3.0
+157	ACN2_1202	Dos germans s'enfronten a 23 anys de presó per matar a trets un home d'un clan rival	Absolts dos homes que s'enfrontaven a 26 anys de presó acusats de violar una dona a Palamós	1.5
+158	ACN2_911	Aute, Morente i Eric Burdon&The Animals seran a la 45a edició del Festival Internacional de Música de Cadaqués	Macaco, Els Catarres, Avishai Cohen i Yolanda Brown, al 48è Festival Internacional de Música de Cadaqués	2.5
+159	ACN2_132	El COPATE comença dilluns els tractaments contra els mosquits als arrossars del Delta	Comencen els tractaments contra el mosquit dels arrossars pròxims als pobles del Delta	3.0
+160	ACN2_958	15 estats europeus registren casos de coronavirus, amb Itàlia amb les xifres més elevades en morts i positius	Itàlia (11.591), Espanya (8.189) i França (3.024) són els estats amb més defuncions per coronavirus de la Unió Europea, segons les dades de l'ECDC.	2.0
+161	Viqui2_317	Lidera el partit polític Alternatiba, inscrit com Alternatiba Eraikitzen en el registre de partits del Ministeri de l'Interior el 2 de febrer de 2009.	El partit va ser inscrit en el registre de partits polítics del Ministeri de l'Interior el 16 de juny de 1992.	1.75
+162	ACN2_778	Els Bombers han fet més rescats de muntanya el 2020 que en el mateix període del 2019 tot i el confinament	Els Bombers fan al juny un 15% més de salvaments al medi natural respecte al mateix mes del 2019	3.5
+163	Viqui2_251	Està situat a la part més baixa i plana, propera a la Tet.	Està situada en el sector sud-oest de la vila, a la part més baixa.	2.25
+164	ACN2_557	La Generalitat designa el director de l'Agència Catalana de Residus responsable del buidatge de l'abocador de Vacamorta	El Govern nomena Lluís Ridao director de l'Agència Catalana de l'Aigua	1.33
+165	ACN2_1086	Els treballs s’han desenvolupat en un tram de 850 metres i han suposat una inversió de 4,94 milions d’euros	Els treballs han suposat una inversió d'uns 135.000 euros	2.75
+166	ACN2_110	Catalunya preveu un estiu de rècord turístic	Catalunya marca aquest estiu un nou rècord de contractació en el sector turístic	2.0
+167	Viqui2_805	L'any següent va ser reconegut per l'Ajuntament de Barcelona.	L'any següent fou designat regidor a l'Ajuntament de Barcelona.	1.75
+168	Viqui2_582	En àudio s'aprofiten les limitacions del sistema auditiu humà (llindar d'audició, emmascarament temporal i/o emmascarament freqüencial) per a comprimir les dades d'àudio.	Aquest fenomen s'aprofita per a comprimir àudio (vegeu llindar d'emmascarament).	3.0
+169	Viqui2_443	Va néixer el 21 de setembre de 1866 a la ciutat de Rouen, situada a la regió francesa de l'Alta Normandia.	Va néixer el 17 de juny de 1920 a la ciutat de Nancy, població situada a la regió de Lorena.	2.67
+170	ACN2_402	L'Ajuntament de Barcelona demana la dimissió de Mercedes Vidal com a presidenta de TMB per les vagues de metro	ERC demana la dimissió de Mercedes Vidal per la gestió de la vaga de Metro	3.25
+171	ACN2_1189	S'estima que la obra tindrà un cost d'uns 400 milions d'euros	El projecte suposarà la inversió d'uns 10 milions d'euros	2.67
+172	Oscar2_565	Les persones interessades podran modificar les seves dades el 14, 15, 16 i 17 de setembre de 2018, mitjançant l'aplicació Consulta i modificació de dades.	Les persones interessades podran modificar les seves dades del 22 de març al 3 d'abril de 2018.	3.0
+173	TE2_216	No ho sé, però tant de bo s'hi quedi.	No ho entenc, però és el que hi ha.	0.0
+174	Oscar2_399	La novetat de gènere negre d'aquesta setmana a la Joan Oliva és La mujer de mi marido, el debut literari de Jane Corry.	L'escriptora italiana Elena Varvello (1971) és l'autora de la novetat de gènere negre d'aquesta setmana a la Joan Oliva.	2.75
+175	ACN2_8	Els dos acusats de segrestar una veïna de Girona durant sis hores, condemnats	Jutgen dos acusats de segrestar una veïna de Girona durant sis hores	2.25
+176	Viqui2_859	Va néixer el 7 de juliol de 1945 a la ciutat de Ceuta.	Va néixer el 14 de juliol de 1942 a la ciutat de Madrid.	3.0
+177	Oscar2_662	En 1977 fundà, amb Daniel Colling i Alain Meilland, el festival musical «Le Printemps de Bourges», que va codirigir fins al 2003.	Dins del festival «Le Printemps de Bourges» va escriure dos espectacles musicals amb Alain Meilland.	2.0
+178	ACN2_7	La marxa lenta dels camioners col·lapsa el trànsit de les rondes de Barcelona	Els camioners dissolen la marxa lenta a les rondes de Barcelona	2.0
+179	Viqui2_659	Abans de l'arribada dels europeus aquest territori estava ocupat per diverses tribus ameríndies com els Cree i els Danezaa.	Abans de la colonització, el territori estava ocupat per aborígens tahamíes i caribs.	3.0
+180	Oscar2_457	Aquest punt NO és vigent tampoc actualment.	Aquest punt NO és vigent a l'escola actual.	2.33
+181	ACN2_554	Els Mossos mantenen la investigació oberta per determinar si hi ha més fets relacionats amb els dos arrestats.	Els mossos mantenen la investigació oberta per tal d'esbrinar si poden estar relacionats amb altres fets delictius.	3.75
+182	TE2_215	Aquest és el meu Valet, i el meu Valet no va a peu.	Aquest, desafortunadament, no és el meu cas.	0.0
+183	Viqui2_739	El 17 de desembre de 1980 es va presentar voluntàriament a l'Audiència Nacional espanyola.	Greument malalt es va presentar voluntàriament a l'Audiència Nacional de Madrid el 1988.	3.0
+184	Viqui2_732	Les obres de construcció es van acabar a finals de l'any 1956, i l'any 1957 es van començar a ocupar les cases.	Les obres de construcció es van iniciar l'any 1948.	1.5
+185	Viqui2_700	Ocupa l'alcaldia de Castelló des de 2005.	És regidor de l'ajuntament de Castelló de la Plana des de 1987 fins al 2011.	2.0
+186	TE2_66	La xifra definitiva de l’IPC a l’estat espanyol i a les autonomies es publicarà el proper 14 de novembre.	La xifra definitiva de l'IPC a l'estat espanyol i a les comunitats autònomes es donarà a conèixer el 14 d'agost pròxim.	3.0
+187	Viqui2_485	És present a l'Atlàntic occidental central: Golf de Mèxic, des de Corpus Christi (Texas) a Texas fins a Pensacola (Florida).	Es troba a l'Atlàntic occidental central: des de Carolina del Nord i el nord-est del Golf de Mèxic fins a Campeche (Mèxic).	3.0
+188	ACN2_737	Els Mossos busquen els assaltants d'una casa d'Almacelles on van lligar i emmordassar la propietària	Els Mossos aconsegueixen frustrar el robatori i detenen el transportista a qui els lladres van ferir i lligar amb brides	1.5
+189	TE2_239	Els carburants van pujar un 0,5% respecte al mes anterior.	Els carburants van pujar però menys que el mateix mes del 2018	2.75
+190	TE2_100	193 persones han mort des de l'inici de la pandèmia.	Un total de 94 persones han mort per la covid-19 des de l'inici de la pandèmia	3.0
+191	Oscar2_521	L'altre dia, en Bernat va fer una xerrada a l'Institut Guttmann pels alumnes de 1r d'IS i 1r d'APSD de matí.	El dimarts dia 13 de novembre, va venir un noi de l'institut Guttmann a fer-nos una xerrada als alumnes de 4t d'ESO.	2.0
+193	ACN2_613	Els serveis judicials han dut a terme l'aixecament del cadàver de la dona i els Mossos d'Esquadra s'han fet càrrec de la investigació.	Els Mossos d'Esquadra s'han fet càrrec de la investigació	3.0
+194	Oscar2_468	Val i quinze Puntuació dins d'un joc a què s'arriba quan un dels dos equips ha guanyat tres quinzes, i el contrari, un.	Trenta per quinze Puntuació dins d'un joc a què s'arriba quan un dels equips ha guanyat dos quinzes, i el contrari, un.	2.75
+195	Viqui2_145	El 2007 la població en edat de treballar era de 17 persones, 16 eren actives i 1 inactiva.	El 2007 la població en edat de treballar era de 17 persones, 12 eren actives i 5 eren inactives.	3.0
+196	Viqui2_160	Van tenir almenys una filla Lívia Drusil·la (58 aC-29).	El matrimoni va tenir dos fills: una filla, Lívia Drusil·la (58 aC-29 EC) i un fill Marc Livi Drus.	3.0
+197	ACN2_41	Hi ha 1.298 nous positius, sumant ja un total de 26.032 casos, 2.249 greus	Hi ha 1.274 nous positius, sumant ja un total de 24.734 casos, 2.108 greus	3.0
+198	ACN2_1079	El Govern insisteix que no ha demanat una reunió amb el president de la CE i creu que es produirà quan la vulgui	Budó assegura que Presidència encara no ha rebut la carta de Sánchez i no qüestiona que la reunió sigui a la Moncloa	1.5
+199	Oscar2_535	Actualment és membre de l'executiva regional de les JERC en la secretaria de finances i secretari d'Organització de la comarca d'Osona.	És secretària d'Organització de les JERC–Alt Camp i secretària d'Organització i Finances de les JERC a la Federació Regional del Camp.	2.0
+200	Oscar2_692	Estava casat amb María Álvarez Soto, amb qui tingué quatre infants.	Estava casat amb María Fernández, amb qui tingué quatre infants (Palmiro, Universo, Germinal i Amaranto).	2.75
+201	ACN2_92	La directora de campanya de JxCat i fins ara portaveu del grup parlamentari va entrar a la Generalitat el 2011 com assessora d'Economia	La directora de campanya de JxCat va entrar a la Generalitat el 2011 com assessora d'Economia i ara s’encarregarà de Presidència i de ser la portaveu del Govern	2.75
+202	ACN2_865	La Mesa accepta a tràmit tots els textos dels grups parlamentaris que es votaran al llarg de la sessió plenària de dijous	El termini per registrar grups al Senat acaba aquest dimecres i la Mesa ho abordarà dijous	1.75
+203	Oscar2_517	En un bol batem els ous, hi afegim la llet tot remenant.	En un cassó batem els ous amb el sucre, i hi afegim el suc de llimona.	2.5
+204	Viqui2_320	"El 1913 protagonitza ""A Noise from the Deep,"" on Normand llença el primer pastís de la història del cinema."	"L'any 1914 va co-protagonitzar amb Chaplin i Marie Dressler ""Tillie's Punctured Romance"", el primer llargmetratge còmic de la història del cinema."	1.75
+205	TE2_232	Hi ha participat 5.000 persones segons la Guàrdia Urbana i 18.000 segons els organitzadors.	10.000 persones segueixen la concentració segons la Guàrdia Urbana	2.5
+206	Viqui2_869	Les llistes es poden fer públiques o privades per a l'usuari.	Poden ser llistes publicades o privades.	3.25
+207	Viqui2_74	Guanyà la plata en el concurs complet per equips i el bronze en el concurs per aparells.	Guanyà la medalla de bronze en el concurs complet per equips.	2.5
+208	ACN2_1163	Barcelona té el segon índex de victimització més alt des del 1983, només per darrera de l'any passat	La demarcació de Barcelona registra un atur del 10,93% el primer trimestre, el nivell més baix des del 2008	0.33
+209	ACN2_516	Queden en llibertat els dos homes detinguts per abusar sexualment d'una noia de 25 anys a Badalona	Ingressen a presó dos homes de 23 anys per violar una dona a Salou	1.25
+210	ACN2_591	Activada la prealerta de l’Inuncat per la previsió de pluges intenses a la Catalunya Central i al Pirineu Oriental	Protecció Civil activa l'alerta del pla Neucat per nevades abundants al Pirineu, Catalunya Central i el prelitoral	2.67
+211	ACN2_1144	El Teatre Condal serà la primera parada de la gira del muntatge i s'exhibirà del 20 al 29 de setembre	L'espectacle s'estrenarà el 23 de setembre al Teatre Victòria de Barcelona	2.67
+212	Viqui2_547	Amb aquest equip va aconseguir el primer ascens a la Primera Divisió de la història del club, la temporada 2013-14.	L'Eibar va aconseguir el primer ascens a la Primera Divisió de la història del club, la temporada 2013-14.	3.5
+213	Viqui2_239	Generalment consisteix en, dos o més paraules, que normalment inclouen una preposició i un substantiu, un adjectiu, o un adverbi.	Les concordances són adjectiu / substantiu o verb / substantiu.	2.0
+214	ACN2_343	Quadrada ja va ser detinguda per no acudir a declarar	Quadrada ja va ser detinguda al març per no anar a declarar	3.75
+215	Viqui2_498	Hi ha 208 cantons electorals a Bèlgica.	Hi ha 225 cantons judicials a Bèlgica.	2.75
+216	ACN2_792	Iceta presenta divendres la seva candidatura a les primàries per liderar el PSC	Iceta presenta formalment la seva candidatura a les primàries per a la primera secretaria del PSC	3.75
+217	Viqui2_20	"La melanterita (del grec ""melas"", negre) és un mineral de la classe dels sulfats."	"La cianotriquita (del grec ""kianos"", blau, i ""thrix"", cabell) és un mineral de la classe dels sulfats."	2.75
+218	Viqui2_540	Tylototriton és un gènere d'amfibis caudats de la família Salamandridae que habiten el sud d'Àsia, des de l'Índia fins a la Xina.	Anthipes és un gènere d'ocells de la família dels muscicàpids (Muscicapidae) que habiten als boscos d'Àsia, des del nord-est de l'Índia fins al sud-est asiàtic.	2.25
+219	Oscar2_415	Receptes de còctels sense alcohol: el Shirley TempleContinuant la tasca de conscienciació i prevenció vers el consum [...]	Receptes de còctels sense alcohol: el Rossy PippinContinuant la tasca de conscienciació i prevenció vers el consum [...]	3.33
+221	Viqui2_611	Aquesta va ser la primera temporada en què el Cardiff City va estar a la Premier League.	Aquesta temporada el Swansea es va fer amb la Welsh Cup.	1.25
+222	ACN2_317	La prova PCR a la persona que havia tingut símptomes de coronavirus ha donat negativa	La prova PCR de la treballadora amb un possible contagi ha donat negatiu	4.75
+223	ACN2_791	Un treballador ferit greu per cremades després d'una deflagració en una rotativa de Castellbisbal	Un treballador ferit greu a causa d'una deflagració en una fàbrica a Montornès del Vallès	3.0
+224	TE2_200	L'home va fugir però va ser localitzat poc després pels agents al carrer Veguer de Carcassona.	L'home va intentar colpejar els agents i escapar, però els Mossos el van interceptar poc després caminant pel voral de la carretera	2.75
+225	Viqui2_267	Juguen amb jersei vermell marronós i pantalons negres a casa, i a fora amb jersei blanc i pantalons negres.	Juga amb jersei vermell i pantalons negres a casa i amb jersei blanc i pantalons negres a fora.	4.25
+226	Oscar2_437	En un bol posem la carn picada, l'ou, l'all, el julivert i el pa sec ratllat.	En un bol barregem l'oli, el sirope, la llet, el vinagre i la vainilla.	1.25
+227	ACN2_19	El PSOE preveu un relleu ràpid amb la possibilitat de celebrar la presa de possessió de Sánchez entre dissabte i dilluns	El PSOE preveu un relleu ràpid amb la possibilitat que Sánchez prengui possessió entre dissabte i dilluns	4.75
+228	Oscar2_421	"Perquè, com ens recorda aquest anarquista irreductible, ""un revolucionari que no fa res és com un capellà""."	"I és que, com diu aquest anarquista indomable, ""el revolucionari que no fa res no és res més que un capellà""."	4.67
+229	Viqui2_810	La paret del cos consta de tres capes	La paret de la bufeta està formada per tres capes:	2.75
+230	Oscar2_67	No és el mateix, però l'edat tampoc.	I això no només depèn de l'edat.	0.25
+231	ACN2_54	Se l'investiga pel delicte d'homicidi, amb l'agreujant del parentiu	Se l'investiga per un delicte d'homicidi imprudent	2.75
+232	Oscar2_180	Al fòrum dialogaran sobre les estratègies amb què es pot dotar la lluita feminista per poder denunciar aquesta violència.	En la trobada dialogaran sobre les estratègies amb què es pot dotar la lluita feminista per poder denunciar aquesta violència.	4.75
+233	ACN2_503	Borges Agricultural & Industrial Nuts començarà a cotitzar al mercat continu l'1 d'abril	Borges Agricultural & Industrial Nuts s'estrenarà dilluns a borsa	3.25
+234	Oscar2_577	Va quedar òrfena de mare als 9 anys.	Als 9 anys va quedar orfe de pare i la seva mare el va portar a Barcelona a estudiar.	2.25
+235	Viqui2_25	Els bocs adults mostren un tupè negre, així com un barbó també de color negre.	Els adults són predominantment de color marró fosc o negre.	2.25
+237	Oscar2_417	S'està a punt de celebrar la carrera anual de brico-nyap-bírries, petits vaixells de construcció casolana.	Avui s'està a punt de celebrar la carrera anual de brico-nyap-bírries, petits vaixells de construcció casolana.	4.0
+238	Oscar2_492	I potser són els únics que valen.	I que els que queden són els que valen.	2.25
+239	Oscar2_295	Aquesta xistorra va envasada al buit i no conté ni gluten, ni lactosa, ni additius ni conservants, el que ho fa 100% natural.	No conté conservants ni al·lèrgens i és apte per a vegans.	1.5
+240	Viqui2_140	Davant les grans pèrdues que patien els italians, Alemanya envià a l'Afrika Korps, comandat pel general Erwin Rommel.	Després d'alguns èxits contra els italians, els britànics van haver de retrocedir davant de l'Afrika Korps, comandat per Erwin Rommel.	2.25
+241	ACN2_274	El trànsit a l'àrea metropolitana baixa fins al 36% respecte a dimecres passat	El trànsit a l'àrea metropolitana baixa fins al 39% respecte a dilluns passat	2.75
+242	ACN2_501	Dos nous afectats eleven a set els positius per coronavirus a la demarcació de Tarragona	Tres nous casos eleven a 24 els positius per coronavirus a la demarcació de Tarragona	2.75
+243	Oscar2_338	(Garrotxa) Excursió setembre 2012 a la Vall d'en Bas.	La Vall d'en Bas, comarca de la Garrotxa.	2.0
+244	ACN2_395	Se l'ha detingut per atemptat als agents de l'autoritat i per desobediència greu.	L'arrestat està acusat delictes de lesions, atemptat als agents de l'autoritat, resistència i desobediència	3.0
+245	Viqui2_891	És originari del llac Malawi (Àfrica Oriental).	És un endemisme del nord del llac Malawi (Àfrica Oriental)	3.75
+246	Viqui2_828	La Torre Ħamrija és una fortificació construïda pels cavallers de l'Orde de Sant Joan de Jerusalem a Malta.	La Torre de Madliena és una fortificació de l'illa de Malta, construïda pels cavallers de l'Orde de Sant Joan de Jerusalem.	3.0
+247	ACN2_581	Un foc a tocar del voral obliga a tallar l'AP-7 al Vendrell en sentit Castelló	Un incendi en un cotxe obliga a tallar parcialment l'autopista AP-7 a Pontós	2.75
+248	Oscar2_514	Pots trobar més informació sobre ells en www.campaners.com	Pots trobar més informació a www.estiu.fundesplai.org.	3.0
+249	TE2_130	Al poble hi ha una església de peregrinació catòlica i l'Església Adventista més petita.	Hi ha una església catòlica i una mesquita.	2.75
+250	Oscar2_258	Us adjuntem les bases i el cartell d'aquesta nova edició.	Us presentem el cartell i les bases d'enguany.	3.67
+251	ACN2_249	Gas Natural Fenosa tanca una emissió de bons per un import de 1.000 milions d'euros	Gas Natural Fenosa tanca una emissió de bons per mil milions i una permuta de deute	3.0
+252	Viqui2_403	Va escriure nombroses obres per a piano i per a orquestra, i deu gran part del seu renom a les operetes de què n'és autor.	És autor d'obres simfòniques, sarsueles, per a piano i gran quantitat de cançons.	2.5
+253	Oscar2_621	Despeses d'enviament incloses (àmbit nacional) + l'assistència gratuïta, per a dues persones, a un taller/degustació de cuina vegana, impartit per l'autora.	Despeses d'enviament incloses (àmbit nacional) + l'assistència gratuïta, per a una persona, a un taller/degustació de cuina vegana, impartit per l'autora.	3.25
+254	Viqui2_26	El tercer tractat fou signat amb els xeiennes del sud i arapaho el 28 d'octubre.	El primer tractat va ser signat el 21 d'octubre de 1867, amb els kiowes i comanxes.	2.25
+255	Viqui2_573	La competició tingué lloc entre els dies 26 d'agost i el 10 de setembre de 1960 a l'Estadi Olímpic de Roma i altres seus italianes.	La competició tingué lloc entre els dies 11 i 23 d'octubre de 1964 a l'Estadi Olímpic de Tòquio i altres seus japoneses.	2.75
+256	ACN2_843	Detinguts dos homes per robar bicicletes elèctriques valorades en més de 4.500 euros	Enxampats dos joves que intentaven robar sis bicicletes i un ordinador per valor de 9.000 euros d'una botiga de Lleida	2.67
+257	Viqui2_493	El massís de l'Olimp marca el límit entre la plana de Macedònia, al nord, i la Tessàlia al sud.	Tessàlia és entre les Termòpiles al sud, el Pindos (que la separa d'Epir) a l'oest, i la mar a l'est.	1.5
+258	Oscar2_166	La meva situació és ben diferent.	La meva percepció és ben diferent.	2.25
+259	Oscar2_130	A veure si algú altre em dona alguna idea més!	A veure si algú de vosaltres en diu alguna cosa.	2.25
+260	ACN2_548	La taxa ha disminuït fins als 232 casos per 100.000 habitants	La taxa ha crescut fins als 345 casos per 100.000 habitants	1.25
+261	Oscar2_547	Aquest sorteig es deriva de la modificació del reglament d'aquest òrgan que va aprovar el Ple municipal el novembre passat.	La proposta inicial es sotmetrà a aprovació al Ple d'aquest novembre.	1.75
+262	Viqui2_765	És un peix d'aigua dolça, pelàgic i de clima tropical (18°N-14°N ).	És un peix d'aigua dolça, de clima tropical i pelàgic.	3.75
+263	Viqui2_163	La capacitància mesurada serveix per distingir si s'ha mesurat un solc o una cresta i amb aquesta informació dibuixar el patró de l'empremta dactilar.	La capacitància varia segons si s'està mesurant una cresta o un solc de l'empremta dactilar.	2.5
+264	Oscar2_474	A el PSOE i al PSM no els ha de legitimar ningú.	És el candidat del PSOE, però es que a Itrabo només hi ha PSOE i PP.	1.5
+265	ACN2_316	La Policia Local troba embolcalls de cocaïna, marihuana i haixix a l’interior del seu vehicle	La Guàrdia Civil i la Policia Local de Mont-roig intervenen dins un xalet més d’un quilo de marihuana, haixix i cocaïna	2.67
+266	Viqui2_887	L'octubre de 1522 un exèrcit de més de 2.000 homes desembarcà a Eivissa.	L'octubre de 1522 un estol comandat per Joan de Velasco amb un exèrcit de més de 2.000 homes desembarcà a Eivissa.	3.5
+267	Viqui2_688	Del conjunt sobretot en destaca el portal adovellat, amb una inscripció que el data el 1575.	A la façana principal destaca un gran portal dovellat datat de l'any 1733.	2.75
+268	TE2_141	Formava part de la gens Herènnia, una gens d'origen samnita.	Formava part de la gens Abúria, una gens romana d'origen plebeu.	2.5
+269	ACN2_568	La majoria dels espanyols escull la via del diàleg per resoldre el conflicte català	El PSOE rebutja la via de la mediació per resoldre el conflicte a Catalunya	1.75
+270	Oscar2_436	Contam amb un equip de professionals amb experiència d'anys en el sector i una excel·lent reputació professional	Comptem amb un equip de professionals altament qualificats i amb àmplia experiència en el sector.	3.5
+271	TE2_238	La serralada té 130 km de llargada i uns 50 km d'amplada.	Té una llargada de 350 metres i un desnivell de 250 metres.	1.5
+272	ACN2_1200	Detingut a Alacant un grup criminal que es feia passar per policies per robar droga a traficants	Desarticulen un grup de traficants de droga a Salou que havia ocupat dos pisos per distribuir els estupefaents	1.5
+273	Oscar2_158	Impulsar polítiques per avançar cap a l'eficiència energètica, que incentivin l'ús d'energies renovables i que afavoreixin l'autoconsum; que fomentin l'estalvi i la conscienciació.	Alhora, impulsarem polítiques per avançar cap l'eficiència energètica, l'estalvi, l'ús de les energies renovables i l'autoconsum.	4.0
+274	ACN2_98	Una avaria al sistema de senyalització entre Sant Sadurní i Martorell provoca retards de 20 minuts a l'R4	Una avaria al sistema de senyalització entre Sant Sadurní i Martorell provoca retards d'almenys 15 minuts a la línia R4	4.67
+275	ACN2_960	Detingut a Barcelona un fugitiu ucraïnès acusat de vandalisme, segrest i robatori amb violència	Detingut per un robatori amb violència i intimidació a Salou	2.25
+276	ACN2_927	A presó un home que es feia passar per policia i coaccionava dones per mantenir relacions sexuals	Segons la policia, l’home va forçar la seva filla de 14 anys a mantenir relacions sexuals amb ell	1.5
+277	ACN2_959	La víctima, de 33 anys i de nacionalitat senegalesa, ha rebut un cop de puny i ha caigut a terra inconscient	La víctima ha rebut un cop de puny i ha caigut a terra inconscient	3.5
+278	ACN2_780	El ple del Patronat aprova el nomenament per majoria absoluta	El ple del Consell Comarcal del Barcelonès aprova per majoria absoluta la seva dissolució	1.75
+279	Viqui2_574	Tramlink ruta 4 és una ruta proposada, que passaria a ser la quarta ruta de la xarxa de Tramlink al sud de Londres.	Tramlink ruta 3 és una de les tres rutes de la xarxa de Tramlink al sud de Londres.	2.0
+280	ACN2_511	La UE signa amb Kosovo l’Acord d’Estabilització i Associació	La UNESCO rebutja l’adhesió de Kosovo	1.0
+281	Viqui2_106	Taígete (19 Tauri / 19 Tau) és un estel que forma part del cúmul obert de les Plèiades a la constel·lació de Taure.	Electra (17 Tauri / HD 23302 / HR 1142) és un estel que forma part del cúmul de les Plèiades a la constel·lació de Taure.	3.0
+282	ACN2_1032	Terrassa crea un pla de xoc de 17 MEUR per afrontar la crisi de la covid-19	Vilanova i la Geltrú destina 3 MEUR a un pla de xoc econòmic i social per pal·liar la crisi de la covid-19	3.0
+283	TE2_106	És obra de l'arquitecte Bernardí Martorell que va rebre la influència modernista de Gaudí.	Era un arquitecte d'estil modernista que va rebre la influència d'Antoni Gaudí i de Lluís Domènech i Muntaner.	2.25
+284	Oscar2_718	El van cridar perquè llegís l'Escriptura i la comentés.	Li van demanar que llegís l'Escriptura i la comentés.	4.75
+285	Viqui2_395	Durant la temporada 2011-2012 Cole jugà cedit al Lille OSC francès.	Acabada la temporada fitxà pel FC Toulouse francès.	1.5
+286	Oscar2_466	En 1947 fou una de les fundadores del Sindicat Força Obrera (FO) i esdevingué membre de la seva comissió executiva de la regió parisenca.	En 1952 va ser nomenat membre del Comitè Regional de la Confederació Nacional del Treball (CNT) de la regió parisenca.	1.75
+287	Viqui2_488	És germà del també tennista Xenofont Kasdaglis.	Era germà del també tennista Dioníssios Kàsdaglis.	3.25
+288	Oscar2_515	Si voleu veure aquest projecte i conèixer el context en què es va crear, cliqueu aquí.	Si voleu llegir i conèixer tot el projecte cliqueu aqui	3.67
+289	Viqui2_598	L'amplitud de les variacions de l'esclat en la majoria de casos és menor d'una magnitud; l'amplitud més gran coneguda és 2,3 magnituds (V480 Lyrae).	Generalment les amplituds de les variacions de l'esclat són de l'ordre d'una magnitud, la variació més llarga coneguda és de 3,4 magnituds (V342 Aquilae).	2.5
+290	Viqui2_351	"El colibrí ardent (""Selasphorus ardens"") és un ocell de la família dels troquílids (Trochilidae) que habita la zona central de Panamà."	"El colibrí maragda bronzat (""Chlorostilbon russatus"") és un ocell de la família dels troquílids (Trochilidae) que habita el nord-est de Colòmbia i nord-oest de Veneçuela."	2.25
+291	Oscar2_665	Estic súper contenta d'haver rebut un altre premi!	Estic molt content que t'hagi fet il·lusió el premi.	2.0
+292	ACN2_1162	Ferit greu un home en caure des d’una alçada de dos metres a prop del Niu de l’Àliga, a Alcover	Mor un treballador d’una empresa de Fogars de la Selva en caure des d’uns 10 metres d’alçada	1.5
+293	Viqui2_21	Constantí va escriure alguns llibres de caràcter teològic.	En canvi, Constantí va escriure algunes obres de caràcter teològic que mostren una tendència monofisita.	3.25
+294	ACN2_853	Resposta a Cayetana Álvarez de Toledo	Álvarez de Toledo carrega contra Vox, Cs i el nacionalisme	1.25
+295	Viqui2_898	Al Roland Garros va caure en quarta ronda i a continuació a caure en primera ronda d'Eastbourne.	Al Roland Garros va caure a quarts de final davant Henin.	3.0
+296	Viqui2_528	El 1671 la diòcesi incloïa al voltant de 100 parròquies, que van ascendir fins a 130 en 1745.	El 1736 la diòcesi comprenia 180 parròquies.	3.0
+297	ACN2_337	Bolvir inaugura el parc que ocupa l'espai de l'antic cementiri	El Bisbat d'Urgell cedeix l'antic cementiri de Bolvir a l'Ajuntament per fer-hi un parc	2.0
+298	ACN2_929	L'Ibex 35 tanca amb números verds però acumula una pèrdua del 2,81% durant la setmana	L'Ibex 35 tanca la setmana amb caigudes del 3% i per sota els 6.600 punts	2.0
+299	ACN2_918	A part, les vendes del comerç minorista a Espanya van superar el maig les vendes catalanes, tant de Comertia com de l'IDESCAT .	Les vendes del comerç minorista creixen un 0,5% al maig a Catalunya	2.25
+300	Viqui2_760	La Font de la Baga del Coll és una surgència del terme municipal de Monistrol de Calders, al Moianès.	La Font de Mussarra és una surgència del terme municipal de Monistrol de Calders, al Moianès.	3.25
+301	Viqui2_382	Els sultanats de Raheita i Gobad eren considerats vassalls del sultà de Tadjoura.	Els soldanats de Raheita i Gobad o Gobaad eren considerats vassalls del soldà de Tadjoura.	4.5
+302	Oscar2_653	Vols saber quins són aquests supòsits?	Vols saber quins jocs són més adequats?	1.0
+303	ACN2_432	Detenen un home a Malgrat de Mar per apallissar un escombriaire	Detenen un home per ferir-ne un altre en un tiroteig a Lloret de Mar	3.0
+304	Oscar2_428	Seguint la N-260 passareu per la Canya i Llocalou fins el nucli de l'Hostalnou de Bianya, punt quilomètric 89.	Passareu per la Canya i Llocalou fins el nucli de l'Hostalnou de Bianya, N-260 punt quilomètric 89.	4.75
+305	ACN2_449	Madrid confirma un segon cas de coronavirus a la comunitat	Madrid confirma el seu primer cas de coronavirus, el setè de l'Estat i el quart en un dia	2.5
+306	Viqui2_900	Va realitzar els seus estudis secundaris en l'Escola Normal Núm.	El 1910, validà els seus estudis en l'Escola Normal Núm.	2.25
+307	ACN2_957	Ferit greu un nen de 4 anys després de caure d'un telecadira de la Molina, a Alp	Mor un nen de 6 anys en caure d'un tractor a Albesa	1.5
+308	Viqui2_178	No se sap res de la seva vida ni de la seva època però és anterior a Priscià i Cassiodor perquè tots dos el mencionen.	No se sap res més de la seva vida o època.	2.75
+309	Viqui2_832	La colla que més vegades l'ha portat a plaça són, amb diferència, els Castellers de Vilafranca.	La colla que més vegades l'ha portat a plaça són els Castellers de Vilafranca.	4.0
+310	ACN2_287	Dos ferits en l'accident d'un ultralleuger als Ports, prop de la Sénia, a la part valenciana de la Pobla de Benifassà	Mor un dels dos ferits en l'accident d'un ultralleuger la part valenciana dels Ports	2.25
+311	ACN2_900	El Centre d'Interpretació de les Tres Cultures es reubicarà al Museu de Tortosa o a l'espai entre els Jardins del Príncep i el Call Jueu	Tortosa reconverteix una part de l'antic Balneari del Porcar en el Centre de les Tres Cultures	2.25
+312	ACN2_1039	Mor el sociòleg Salvador Giner als 85 anys	Mor l'escultor mataroní Manuel Cusachs als 85 anys	2.5
+313	Oscar2_700	A l'exposició podrà pagar en efectiu o amb targeta.	Es pot fer en efectiu o amb targeta	3.67
+314	ACN2_1074	Localitzen 63 obusos de la Guerra Civil a l'antiga fàbrica Cosme Toda de l'Hospitalet de Llobregat	La Guàrdia Civil entra a dues impremtes de l'Hospitalet de Llobregat i Sant Feliu de Llobregat	0.5
+315	Viqui2_218	Va ser descoberta a la mina Kombat (Kombat, Districte de Grootfontein, Regió d'Otjozondjupa, Namíbia).	Va ser descoberta a la mina Kombat, al Districte Grootfontein (Otjozondjupa, Namíbia).	5.0
+316	TE2_16	Per dinar: La cuina de la Cerdanya és marcada per la naturalesa muntanyenca, amb un clima alpí i una tradició de ramaderia.	La cuina de Cerdanya és marcada per la seua naturalesa d'altiplà muntanyenc, amb un clima alpí i una tradició de ramaderia, principalment de vaques.	3.5
+317	Oscar2_486	Aquest és el problema principal i la nostra principal mancança com a societat.	Quin és el principal problema que pateix la nostra societat?	1.75
+318	Viqui2_683	Al districte pertany també l'illa frisona oriental de Wangerooge.	La part occidental de Hinnøja pertany al districte de Vesterålen, i l'extrem sud-oest al districte de Lofoten.	1.5
+319	ACN2_196	Esquerra Republicana, Esquerra Nacionalista Valenciana i els Verds formalitzen la coalició ‘Ara, País Valencià’	Esquerra Republicana del País Valencià i Esquerra Valenciana treballaran orgànicament de manera conjunta	2.25
+320	ACN2_743	Els Mossos i la Policia Local van trobar part del botí procedent de sis robatoris a Girona i la Bisbal d'Empordà	L'enxampen 'in fraganti' robant a un bar de Girona i acaba agredint els agents de la Policia Municipal	1.5
+321	ACN2_254	CCOO i UGT porten la protesta contra la precarietat i la pobresa salarial davant la seu de la Pimec a Lleida	CCOO i la UGT de Lleida criden a sortir el carrer el Primer de Maig contra la precarietat laboral i salarial	2.0
+322	Oscar2_469	Es un gos jove, nascut el març del 2013 i de mida gran, 36 quilos i 65 cm d' alçada	FANTA del CAAD Maresme es una gossa jove nascuda el juny del 2014 i de mida mitjana 23 quilos, 52 cm d' alçada.	2.67
+323	ACN2_208	Cs denúncia l'alcalde de Reus i una regidora de la CUP per un possible delicte d'incitació a l'odi	Arxivada la causa contra una regidora de la CUP de Reus per un delicte d’odi	2.0
+324	Oscar2_287	Agafem un taxi i ens plantem allà.	Agafem un cotxe i ens dirigim cap a Marivent.	2.75
+325	Viqui2_338	L'actual temple de Sant Martí d'Empúries va ser bastit al segle XVI per substituir l'edifici existent anteriorment.	L'actual edificació degué substituir, a finals del segle XVIII, una construcció anterior.	3.25
+326	ACN2_160	Denuncien un conductor a Sant Cugat el Vallès per gairebé sextuplicar la taxa d’alcohol	Enxampen un conductor a Sant Vicenç de Castellet que quintuplicava la taxa d’alcoholèmia	2.75
+327	ACN2_825	Santamaría insisteix que l’Estat no aixecarà el 155 fins que “Catalunya tingui un Govern”	El PSOE ja no descarta l’aplicació de l’article 155 de la Constitució a Catalunya	1.5
+328	TE2_36	Així, formalment BComú, Podem, ICV i EUiA es presenten en coalició amb En Comú Podem.	En Comú Podem es presenta com a partit instrumental en coalició amb BComú, ICV, EUiA i Podem	4.0
+329	ACN2_1123	Un home troba una espoleta de la Guerra Civil a un bosc del Ripollès i la porta a la comissaria de mossos	Un excursionista troba un projectil d'artilleria de la Guerra Civil a la Fatarella	2.75
+330	Oscar2_237	El beat Juníper Serra va néixer a Petra (Mallorca) el 1713.	Josep Piñas Serra va morir el 19 d'octubre de 1986 a Còrnabarriu (Llenguadoc, Occitània).	1.0
+331	Viqui2_896	Al final de la contesa va ser detingut per les forces casadistas, i fou empresonat.	Al final de la contesa va ser detingut per les forces franquistes.	3.0
+332	ACN2_528	El Govern inicia els tràmits per aprovar l’avantprojecte de llei que harmonitza les fórmules de gestió de l'assistència sanitària	El Govern inicia els tràmits per aprovar el decret que facilitarà que les infermeres dispensin medicaments	1.75
+333	Viqui2_509	Va abraçar la carrera eclesiàstica va dedicar-se a la literatura.	Inicis de la carrera literària i eclesiàstica.	2.0
+334	ACN2_288	Adif restableix aquest dimarts la circulació de trens entre Manresa i Sant Vicenç de Castellet	Renfe restableix el servei de tren de les línies R4 i R12 entre Sant Vicenç de Castellet i Manresa aquest divendres	3.0
+335	TE2_236	Els agents en busquen un altre, que acompanyava l'arrestat i que va aconseguir fugir en el moment en què van ser enxampats 'in fraganti'.	Els Mossos en busquen un altre, que va aconseguir fugir en ser enxampats 'in fraganti'	4.0
+336	Viqui2_87	A l'esquerra té una altra finestra.	A l'esquerra hi ha una altra finestra i una petita obertura.	3.0
+337	ACN2_1011	Condemnat a prop de deu anys de presó l'home que va matar i esquarterar un individu a Barcelona el 2008 per drogues	Condemnat a 12 anys i 6 mesos de presó l'home que va matar a ganivetades un traficant a Empuriabrava	2.5
+338	Oscar2_308	Però n'hi ha una que no hi ha manera de fer-ho efectiu.	Potser és que no hi ha cap altra manera de fer-ho.	1.67
+339	Viqui2_429	Els adults presenten el cap de color marró clar amb ocels circulars negres.	Els adults presenten el cap marró fosc, el pronot marró pàl·lid amb rugositats més fosques, les ales tenyides de marró i les potes amb franges.	2.5
+340	ACN2_995	A Ribera d'Ondara crema un foc forestal al paratge de la Panadella	Un incendi crema 1,2 hectàrees de vegetació forestal a Benissanet, a la Ribera d'Ebre	2.67
+341	Viqui2_431	El 1994 rep l'encàrrec de realitzar un projecte de pintures murals per a l'Església de Santa Coloma de Farners.	El 1999 s'inicien les pintures murals de l'Església Parroquial de Santa Coloma de Farners.	2.0
+342	ACN2_188	Els hospitalitzats amb coronavirus a la regió sanitària de Lleida segueixen baixant fins als 185, 4 menys que dimecres	S'eleven fins a 203 els hospitalitzats amb coronavirus a la regió sanitària de Lleida, set més que diumenge	1.75
+343	ACN2_939	L'Ibex 35 s'ensorra en la pitjor sessió de la història amb una caiguda de prop del 14% pel coronavirus	L'Íbex 35 obre la sessió amb una caiguda del 0,22%	2.25
+344	ACN2_1136	Detenen tres persones per robar en un pis al carrer de les Llevadores de Salt	Detenen quatre persones a Berga per intentar robar en un pis	2.5
+345	Oscar2_358	La presentació anirà a càrrec d'Ignasi Moreta, comissari de l'Any Pannikar i professor de la Universitat Pompeu Fabra	A càrrec de Josep M. Salrach, de la Universitat Pompeu Fabra.	2.67
+346	ACN2_483	El nombre de pacients ingressats per la covid-19 al consorci baixa fins a les 116 persones	La xifra de pacients ingressats baixa fins els 123	2.75
+347	ACN2_494	Demostren per primera vegada l'eficàcia d'una teràpia personalitzada contra el càncer de pàncrees	Demostren l'eficàcia d'un nou tractament de primera línia del càncer renal	2.75
+348	Viqui2_640	Murzim és una variable Beta Cephei; la seva brillantor oscil·la entre magnitud aparent +1,95 i +2,00 en un període de sis hores.	Alcíone C és una variable Delta Scuti, la lluentor de la qual oscil·la entre magnitud +8,25 i +8,30 en un període de 1,13 hores.	3.0
+349	ACN2_996	Troben el cos sense vida del veí de Gironella desaparegut des de diumenge al riu Llobregat	Localitzen el cos sense vida de l'ancià desaparegut aquest diumenge a Belianes	3.0
+350	TE2_65	La mare detinguda es troba sota custòdia policial i es preveu que passi a disposició judicial aquest dijous.	La mare es troba ara sota custòdia policial. Es preveu que aquest dijous passi a disposició judicial al jutjat d'instrucció número 1 de Girona, que és qui s'ha fet càrrec del cas.	3.0
+351	ACN2_650	El PSOE vota en contra de les tres propostes	Ciutadans s'absté i el PP vota en contra de la proposta	1.33
+352	Viqui2_346	A la part del darrere, en el lloc on hi havia l'antiga cuina, hi ha un forn molt ben conservat.	A l'interior es conserva un celler que havia estat l'antiga cuina.	2.0
+353	Oscar2_455	S'hi pot arribar des del camí de Ronda que comença a la platja de Lloret i travessa Sa Caleta.	S'hi accedeix a peu pel camí de ronda entre Sa Riera i el platjar de Pals.	3.0
+354	ACN2_657	Controlat l'incendi forestal de Vilademuls	Extingit l'incendi de vegetació forestal de Querol	2.0
+355	Viqui2_135	En aquesta capella es creu que estava ubicada la primitiva construcció.	Es creu que aquesta primitiva església es trobava on actualment hi ha la capella del Santíssim.	3.0
+356	Viqui2_18	Limita al nord-oest per Mutxamel i el Campello i Alacant al sud.	Limita a l'oest amb Burjassot, al nord amb Borbotó i Carpesa i al sud amb València.	2.0
+357	TE2_49	"Els salmons del Pacífic (""Oncorhynchus"") són un gènere de peixos actinopterigis de la família dels salmònids i de l'ordre dels salmoniformes."	Epinephelus és un gènere de peixos de la subfamília dels Epinefelins (anfosos o meros), de la família dels serrànids i de l'ordre dels perciformes.	2.0
+358	ACN2_1110	Junqueras, Turull, Romeva, Forn, Rull i Bassa compareixeran dimarts a la cambra catalana	Torra visitarà dijous Turull, Rull i Forn a la presó de Lledoners	1.5
+359	ACN2_125	Puigdemont es reuneix aquest dimarts amb Forcadell al Palau de la Generalitat	Puigdemont i Millo es reuneixen aquest divendres al Palau de la Generalitat	2.75
+360	Viqui2_421	Prèviament, havia estat el 4t Secretari General de la Comunitat de l'Àfrica Oriental.	És l'actual Secretari General de la Comunitat de l'Àfrica Oriental (EAC).	2.75
+361	ACN2_903	La Marató de Donants de Sang 2.0 espera obtenir unes 7.000 donacions suplementàries a tot Catalunya fins al 22 de gener	La Marató de Donants de Sang supera l'objectiu de les 10.000 donacions	1.75
+362	Viqui2_84	Sant Esteve del Pujol de Planès és una església catòlica del nucli disseminat del Pujol de Planès, al municipi de Montmajor (Berguedà).	Santa Maria és l'església parroquial del nucli de Sant Serni, del municipi de Torà, a la comarca de la Segarra.	1.75
+363	Oscar2_619	Digues un llibre que no hagis llegit.	No passa res si t'has llegit el llibre.	1.25
+364	Oscar2_462	L'acte es desenvoluparà a partir de les 18...	L'acte començarà a les 19 hores.	3.0
+365	Oscar2_290	Dijous 8 de novembre es proven les sirenes d'avís a la població per risc químic.	El proper dijous 8 de novembre s'efectuarà una prova de so de les sirenes d'avís de risc químic per a la població.	5.0
+366	ACN2_276	Per sectors d'activitat, la desocupació ha caigut en la indústria, la construcció i els serveis i s'ha incrementat en l'agricultura.	Per sectors, a Barcelona l'ocupació creix en termes trimestrals a l'agricultura i la indústria mentre que cau a la construcció i els serveis.	1.75
+367	ACN2_257	Dos forenses asseguren que les lesions d'Ester Quintana van ser per pilota de goma i no per projectil de foam	Dos infermers que van atendre Quintana declaren que la lesió no semblava causada per l'impacte d'una pilota de goma	1.5
+368	Oscar2_57	Tancarà el festival la Banda Simfònica de la Societat Musical d'Alzira	Estrena del pasdoble per la Banda Simfònica de la Societat Musical d'Alzira.	2.0
+369	TE2_194	Els participants han lluït estelades i pancartes a favor de l'alliberament dels presos independentistes i reivindicatives de l'1-O.	Integrants dels CDR i l'ANC han penjat llaços i han pintat proclames com 'Llibertat presos polítics'	2.67
+370	Viqui2_677	La façana s'orienta a nord-est i destaca la porta principal rectangular amb llinda i brancals de carreus.	La façana principal s'orienta a llevant, la porta principal és rectangular amb llinda i marc de pedra.	2.75
+371	TE2_172	Hi ha participat 5.000 persones segons la Guàrdia Urbana i 18.000 segons els organitzadors.	Prop d'un milió de persones hi van participar, segons la Guàrdia Urbana.	2.75
+372	ACN2_1069	L'alcalde d'Arboç i el cap de la policia local, investigats per prevaricació, tràfic d'influències i falsedat documental	Se'ls investiga per pertinença a organització criminal, delicte contra Hisenda, falsedat documental i blanqueig de capitals	2.5
+373	Viqui2_437	És el barri amb el major percentatge de vot en blanc.	És el barri amb el menor percentatge de vots en blanc.	1.0
+374	ACN2_221	Baixa el preu a les comarques de Barcelona	Premiats a les comarques de Barcelona	1.0
+375	ACN2_1161	El president Torra s'afegirà a la tarda a la trobada on també assisteixen Lluís Llach, Aurora Madaula, Marta Sibina i Antoni Morrall	Quim Torra i Teresa Cunillera, assisteixen a l'espectacle de Marta Mathéu i Juan de la Rubia	1.67
+376	ACN2_418	Tant la Generalitat com ERC han obert procediments interns i el partit l'ha suspès cautelarment de militància	Tant la Generalitat com ERC han obert procediments interns per investigar el cas	3.0
+377	ACN2_1025	ERC deixa de formar part de l'equip de govern del Consell Comarcal de l'Alt Urgell	ERC i JxCat governaran de manera conjunta el Consell Comarcal del Maresme	1.5
+378	Viqui2_354	El 1930 la família es va traslladar a Ludwigsburg i el 1932 a Ulm.	El 1894, la família es va traslladar de Wintersingen a Allschwil.	1.75
+379	Oscar2_380	Traiem del forn i quan s'hagi refredat una mica la traiem del motlle i deixem refredar damunt una reixeta.	El traiem del forn, deixem que perdi una mica de temperatura, desemmotlles i deixem refredar damunt d'una reixeta.	5.0
+380	Viqui2_637	Encara que només es coneix l'òrbita, el seu radi de 41 km i la seva albedo geomètrica de 0,08.	Desgraciadament es coneix poca cosa més que la seva òrbita, radi de 45 km i albedo geomètric de 0,08.	3.25
+381	Viqui2_411	"Timocles de Siracusa (en llatí ""Timocles"", en grec antic ) fou un escriptor grec d'època desconeguda."	"Zenó de Mindos, en llatí ""Zenon"", en grec antic, fou un escriptor grec d'època desconeguda."	3.0
+382	ACN2_256	Presó provisional sense fiança per a la dona que va atropellar un grup ciclista a Oliva causant dos morts i tres ferits	Presó provisional sense fiança per al conductor detingut per l'atropellament mortal d' un ciclista a Oliva	3.0
+383	ACN2_53	El Congres aprova la creació d'una comissió d'investigació sobre Fernández Díaz i l'Operació Catalunya	El Congrés aprovarà dimarts la creació d'una comissió d'investigació sobre Fernández Díaz i l'Operació Catalunya	3.0
+384	Viqui2_800	El 1997-1999 fou entrenadora de la selecció espanyola de judo i de la selecció valenciana de 1993 a 2003.	L'any 1989 va ser entrenadora de la selecció de Girona femenina de voleibol de Catalunya.	2.67
+385	ACN2_130	La jutgessa dóna per acabada la instrucció sobre la destrucció dels ordinadors de Bárcenas i processa el PP	La magistrada envia a judici el PP per la destrucció de l'ordinador de Bárcenas	3.67
+386	TE2_119	Ròpal (en grec antic Ῥόπαλος) va ser, segons la mitologia grega, un fill de Festos, que era fill al seu torn d'Hèracles.	Tritó (en grec antic Τρίτων), va ser, segons la mitologia grega, un déu marí, fill de Posidó i d'Amfitrite.	2.0
+387	ACN2_264	Puigdemont convoca els diputats de JxCat dissabte a Alemanya	Puigdemont reunirà dimecres a Bèlgica els diputats de JxCat	3.0
+388	ACN2_627	El trànsit de l'àrea metropolitana baixa entre un 92,1% i un 90,5% respecte a un diumenge normal	El trànsit a l'àrea metropolitana baixa un 88% aquest diumenge respecte a un cap de setmana normal	2.75
+389	Oscar2_156	Arriba l'Anton, el masover, i Bartomeu el convida a beure.	Arriba Anton, i l'altre el convida a beure.	3.75
+390	ACN2_734	Albiol demana la compareixença de Maragall al Parlament i sospita que Batet menteix	Cs demana la compareixença de Mas i Borràs al Parlament	2.0
+391	Viqui2_289	Fou nomenat fill adoptiu d'Àvila, i el 1917, va ser nomenat fill predilecte d'Arenys de Mar.	L'any 1943, l'Ajuntament d'Arenys de Mar el nomenà fill predilecte de la vila.	3.0
+392	ACN2_81	El PDeCAT trenca el pacte de govern amb el PSC a Parets del Vallès	El PDeCAT trenca l'acord de governabilitat amb el PSC de Mollet del Vallès	3.0
+393	ACN2_1140	L'Hospital de Bellvitge va batre el 2017 el rècord històric de trasplantaments de ronyó a Catalunya	Catalunya registra un nou rècord històric amb 954 trasplantaments el 2015	2.0
+394	Oscar2_157	Però que hi ha de cert en tot això?	Però, què hi ha de veritat en tot això?	5.0
+395	ACN2_846	El Congrés convalida el decret que carrega als bancs l’impost sobre les hipoteques	El Govern torna a aprovar el decret que regula l'impost sobre begudes ensucrades envasades	1.5
+396	ACN2_830	Les línies de transport escolar han avançat la tornada a casa dels estudiants de la comarca de l'Alt Urgell	Al Berguedà s'han suspès sis rutes de transport escolar mentre que al Moianès s'ha avançat la tornada dels escolars a casa	2.67
+397	Viqui2_68	Tal com a molí, veiem restes d'una petita bassa i la resclosa, cobert per vegetació degut al seu desús.	A davant del molí es coonserva la bassa, tot i que està coberta per la vegetació.	2.33
+398	Viqui2_671	"La brigada de Lovat va desembarcar a la platja ""Sword"" durant el desembarcament de Normandia, el 6 de juny de 1944."	Gold Beach fou una de les platges del Desembarcament de Normandia durant la II Guerra Mundial el 6 de juny de 1944.	2.0
+399	Oscar2_278	Va anar als Jocs Olímpics de Seül 1988, on la selecció nordamericana va obtenir la medalla de bronze.	Va guanyar la medalla d'or als Jocs Olímpics de Londres 1948 on fou el màxim golejador.	1.5
+400	ACN2_909	Els treballs compten amb un pressupost de 2,4 MEUR i tindran una durada de nou mesos, set per a l'execució de les obres i dos per efectuar proves	Les obres compten amb un pressupost de prop de 243.000 euros i tindran una durada de quatre mesos i mig	2.75
+401	Oscar2_76	La música des de petits és important ja que beneficia el desenvolupament intel·lectual, auditiu, sensorial, de la parla i motriu.	Aprendre música des de petits beneficia el desenvolupament intel·lectual, auditiu, sensorial, de la parla i motriu dels nens.	3.75
+402	Oscar2_445	2.1 Identifica les funcions de producció o prestació de serveis, economicofinanceres, socials, comercials i/o de màrqueting i administratives d'una empresa.	2.1 Funcions bàsiques de l'empresa: de producció o prestació de serveis, economicofinanceres, socials, comercials i/o de màrqueting i administratives d'una empresa.	2.5
+403	ACN2_411	Més seguretat per l'increment de l'alerta terrorista	Dispositiu de seguretat i l'alerta terrorista	3.67
+404	ACN2_312	Un incendi en un pis de Cambrils deixa dos ferits lleus	Dos ferits lleus en l'incendi d'un pis a Tarragona	3.25
+405	ACN2_450	Brussel·les preveu un creixement del PIB espanyol de l'1,6% aquest any i l'1,5% el 2021	Funcas retalla la previsió de creixement del PIB espanyol fins a l'1,9% aquest any i l'1,5% el 2020	2.25
+406	TE2_214	El pressupost de la mostra és d'uns 15.000 €.	Té un pressupost anual d'uns mil dos-cents milions d'euros.	2.0
+407	ACN2_731	El líder del PSC, Miquel Iceta, serà el nou president del Senat	El diputat de Cs Juan Trinidad serà el nou president del parlament autonòmic	1.33
+408	ACN2_477	Hi treballen nou dotacions terrestres dels Bombers de la Generalitat	Hi treballen una vintena de dotacions dels Bombers de la Generalitat	3.0
+409	Viqui2_821	Començà a disputar-se l'any 1916 i era classificatori pel Campionat d'Espanya.	Començà a disputar-se l'any 1915 amb la creació de la Federació Sud de futbol i era classificatori per la Copa del Rei de futbol.	3.0
+410	ACN2_434	La constitució de societats mercantils puja un 4,1% el quart trimestre del 2019 a Catalunya	La constitució de societats mercantils a Catalunya creix un 3% el 2019 fins a les 18.240	3.0
+411	ACN2_526	El jutjat d'instrucció 6 de Barcelona obre investigació per quatre denúncies de presumptes abusos sexuals als Maristes	Fiscalia obre una investigació pels suposats abusos sexuals a l'escola Claret de Barcelona	2.5
+412	Viqui2_410	Es troba des del Mar Roig i l'Àfrica Oriental fins a Papua Nova Guinea, el sud del Japó i Austràlia.	Es troba des del Mar Roig fins al Japó i Papua Nova Guinea.	3.0
+413	TE2_86	Posar en una olla el sucre a foc mig, les pells i el suc de les clementines.	En una olla posem l'aigua i el sucre a foc mitjà.	2.75
+414	Viqui2_662	Els muntíacs gegants utilitzen les seves glàndules odoríferes per marcar el seu territori.	Com les civetes, les genetes tenen glàndules almesqueres que utilitzen per a marcar el seu territori.	2.75
+415	TE2_109	Un cop enrossides, afegiu hi una llossada d'aigua i tapeu ho .	Un cop la ceba estigui, hi afegim el tomàquet triturat.	1.25
+416	Viqui2_526	Cada jugador pot realitzar fins a tres accions a cada torn.	Cada jugador realitza en el seu torn les següents accions	2.75
+417	Oscar2_427	Unes postres senzilles, clàssiques, però molt bones!	Unes postres, i no postres, excel·lents!	2.0
+418	ACN2_1016	La Guàrdia Civil desarticula un laboratori de processament de cocaïna a Cambrils	La Guàrdia Civil ha detingut set persones i ha desmantellat a Gavà un sofisticat laboratori de manipulació de droga	2.75
+419	Oscar2_397	Activitats d'oci com la visita als estadis del Joventut de Badalona o del FC Barcelona, i a parcs aquàtics amb descomptes especials.	Activitats d'oci, com la visita al Camp Nou o a parcs aquàtics del Maresme amb descomptes especials.	3.0
+420	Oscar2_712	Compta amb 2 dormitoris dobles, un amb suite.	Disposa de 2 dormitoris dobles i 2 banys complets.	3.0
+421	Viqui2_877	La rematada del campanar consisteix en una balustrada.	La façana la remata una cornisa motllurada simple.	1.75
+422	Viqui2_627	Les fulles són enteres, lineals i en forma de llança, toscament dentades i enganxoses.	Les fulles són coriàcies, sèssils, simples, el·líptiques, ovals, lineals o lanceolades i en forma de falca a la base.	2.5
+423	ACN2_149	El TSJC seguirà deliberant dilluns si admet a tràmit la querella de la Fiscalia contra Lloveras i Buch	El TSJC admet a tràmit la querella de la Fiscalia contra Lloveras i Buch de moment només per desobediència	2.0
+424	Oscar2_630	Però per a això caldria, a més, que tampoc no fossin covards.	Però tàcticament no ho eren tant.	0.0
+425	Oscar2_683	Vaig fer un caldo i amb el pollastre que he fet servir prepararé aquestes croquetes.	Vaig fer un caldo i amb el pollastre...	3.0
+426	ACN2_191	El Parlament aprova la creació d'una comissió d'estudi sobre el racisme institucional	El Parlament constitueix la comissió d'estudi sobre racisme institucional en la gestió de la seguretat	2.5
+427	Viqui2_505	"LOdissea (en grec: ΟΔΥΣΣΕΙΑ, ἡ Ὀδσσεια) és el segon dels grans poemes èpics grecs atribuïts a Homer; l'altre és la ""Ilíada""."	"Penèlope (en grec: ""Πηνελόπεια"" o ""Πηνελόπη"") és un personatge de l ""Odissea"", un dels dos grans poemes èpics atribuïts a Homer."	2.25
+428	ACN2_285	La Plataforma per la Llengua engega una campanya per impulsar l’ús del català a les universitats	La Plataforma per la Llengua impulsa una campanya perquè LinkedIn incorpori el català	2.75
+429	ACN2_413	Les obres de desdoblament de la C-260 a Vilatenim finalitzaran el maig del 2017	Acaben les obres de desdoblament de la C-260 a Vilatenim	2.5
+430	Viqui2_466	L'escut oficial del municipi d'Abella de la Conca, al Pallars Jussà, té el següent blasonament	L'escut oficial de Gavet de la Conca té el següent blasonament	3.0
+431	ACN2_13	Els preus dels habitatges a Catalunya creixen un 9,3% durant el segon trimestre	Els preus dels habitatges augmenten un 9,1% el tercer trimestre a Catalunya	3.0
+432	TE2_56	El jutge de guàrdia de Granollers en va decretar la seva llibertat amb càrrecs.	El jutge va decretar la seva llibertat amb càrrecs.	3.75
+433	ACN2_146	Els actes vandàlics als trens de Rodalies tenen un cost superior als 10 milions d'euros durant el 2017	Els actes vandàlics als trens de rodalies costen a Renfe 10 milions d’euros el 2017	4.0
+434	Viqui2_24	La impremta hi tingué un paper molt important; gràcies a aquesta, l'humanisme s'expandí molt més ràpidament, a partir del 1450.]	L'antiguitat és rellegida: la impremta hi tingué un paper molt important; gràcies a aquesta, l'humanisme s'expandí molt més ràpidament, a partir del 1450.]	3.5
+435	Oscar2_498	Donada la qualitat de les obres presentades, el jurat ha decidit atorgar, a més dels tres primers premis, una menció d'honor. [més]	Donada la qualitat dels treballs presentats, el jurat ha decidit atorgar dos accèssits.	3.0
+436	Viqui2_557	És una empresa tecnològica dedicada a la comercialització d'energia elèctrica 100% renovable.	"Holaluz, denominació ""Clidom Energy SL"", és una empresa dedicada a la comercialització d'energia elèctrica d'origen 100% renovable i de gas."	3.0
+437	Viqui2_164	El paller és de planta rectangular i coberta de teula a dues vessants.	El porxo és de planta rectangular, parets de maçoneria i coberta de teula a dues vessants.	2.5
+438	Viqui2_556	Les aplicacions inclouen soldadura, pintat i càrrega de maquinària.	Les aplicacions inclouen soldat, pintat i càrrega de maquinària.	5.0
+439	TE2_225	"Està situada dalt d'un turó, a la partida de ""Les Guàrdies""."	Està situada dalt d'un turonet al sud-oest de la vila, a la partida que pren el nom de l'ermita.	3.0
+440	ACN2_324	La investigació continua oberta i no es descarta la seva participació en altres fets similars a altres localitats.	La investigació continua oberta per tal d’esclarir altres fets similars en els quals no es descarta la participació del detingut.	4.0
+441	Oscar2_15	Comptem amb la millor maquinària per realitzar tot tipus de fresats.	Amb tot tipus de maquinària per realitzar-los.	3.25
+442	Oscar2_104	M'encanta la natura, passejar i sobretot, la muntanya.	M'agrada caminar i gaudir de la natura.	3.25
+443	Oscar2_526	Participació d'Enric Benavent en els programes Mans i Paraules de Vida de Catalunya Ràdio	Participació d'Enric Benavent al programa Catalunya Plural de COM Ràdio amb Silvia Coppulo	3.0
+444	Oscar2_54	L'església actual és del segle XII.	L'església és una construcció del segle XII.	4.67
+445	Oscar2_626	Història i Art de l'Església Catalana.	Història de l'Església i la religiositat.	2.25
+446	ACN2_765	La plantació produïa uns 50 quilos de droga cada tres mesos, quantitat que genera uns 50.000 euros de beneficis	La plantació estava preparada per produir vuit quilos de de cabdells cada dos mesos, amb un benefici de 15.000 euros	2.75
+447	ACN2_1073	A hores d'ara, i tot i la remissió de l'episodi, sis carreteres continuen tallades per inundació	Quatre carreteres tallades encara per les pluges de les darreres hores	2.75
+448	Oscar2_171	Per rebre suport ha de descarregar i executar el següent programa (fes clic aquí).	Per a descarregar-vos el programa feu clic aquí.	2.25
+449	ACN2_187	Les tres assemblees dels treballadors del Metro ratifiquen la reclamació al comitè d’una nova estratègia de negociació	Els treballadors del Metro reclamen al comitè una nova estratègia de negociació amb la direcció en l’assemblea del matí	2.75
+450	TE2_208	A la Finca Nadal s'hi conreen bàsicament les varietats autòctones de raïm blanc del Penedès: macabeu, xarel·lo, xarel·lo vermell i parellada.	S'hi cultiven les varietats autòctones Xarel·lo, Macabeu, Parellada, Monestrell, Bastard negre, Sumoll i Xarel·lo vermell.	3.0
+451	Viqui2_904	També trobem esmentat els Terrer de Vall en el fogatge de la parròquia de Santa Eugènia de Berga de 1553.	Aquest mas el trobem esmentat en el fogatge de 1553 de la parròquia i terme de Sant Feliu de Torelló.	2.75
+452	Viqui2_834	Rep el nom del seu mecenes, en Joan Ventosa i Calvell.	Rep el seu nom del mineralogista i gemmòleg català Joan Abella i Creus.	1.75
+453	Viqui2_565	Després, fou designat president del 8 de gener al 3 de juny de 1848.	Fou president fins al 23 de desembre de 1846.	2.5
+454	Viqui2_458	Era fill gran d'Antoine Charles IV de Gramont i de Marie Charlotte de Castelnau.	Era fill de Jean de la Flèche i de Paula, filla d'Herbert I, comte del Maine.	2.67
+455	ACN2_575	Calvo i Echenique ja estan reunits per intentar tancar un acord per investir Sánchez	Calvo i Echenique es reuniran demà per intentar arribar a un acord de legislatura	3.25
+456	ACN2_56	El PSC acusa els independentistes de “trepitjar els drets i l’Estatut”	El PSC acusa els independentistes de “trepitjar els drets”	3.0
+457	Viqui2_613	Antiga central productora de Sort situada a l'estrem nord del poble, a la riba oest de la Noguera Pallaresa.	És a la riba esquerra de la Noguera Pallaresa, a l'extrem sud-oest de l'antic terme de Claverol.	2.25
+458	ACN2_639	Catalunya és el destí preferit en càmpings, amb més de 1,8 milions de pernoctacions	Catalunya va ser el segon destí turístic preferit dels espanyols amb 1,2 milions de viatges, un 82,6% menys	1.5
+459	ACN2_216	En les últimes hores, el balanç d'expedients temporals presentats augmenta en 736 persones i 114 empreses	En les últimes hores, el balanç d'expedients temporals presentats augmenta en 1.367 persones i 130 empreses	3.0
+460	TE2_44	Josep Maria Planas, sotsdirector General d'Informació i Foment de la Sostenibilitat, Departament de Territori i Sostenibilitat de la Generalitat de Catalunya.	Sots director general d'Informació i Foment de la Sostenibilitat del Departament de Territori i Sostenibilitat de la Generalitat de Catalunya.	3.25
+461	Viqui2_248	Els orígens d'aquesta masia són medievals.	Els orígens d'aquesta masia són força desconeguts.	2.5
+462	Viqui2_761	La primera menció de Warnsveld és del 1121.	La primera menció escrita de la vila data del 1245.	3.0
+463	Viqui2_534	Alguns exemples d'aquest tipus d'edificis són: Biniac-l'Argentina Oriental i Occidental, Torrellisar Vell, Torralbet i Cotaina	Alguns exemples d'aquest tipus d'edificis són: Biniac-l'Argentina, Torrellisar, etc.	3.5
+464	Viqui2_448	"El ""quars rutilat"" és una varietat de quars que presenta inclusions sòlides de rútil en hàbit acicular."	"El ""quars iridescent"" és una varietat de quars cristal·lí."	2.25
+465	ACN2_1156	Col·lectius antifeixistes denuncien que l'arrestat ha patit una agressió d'un militant del partit d'extrema dreta	Els Mossos investiguen l'agressió a un jove independentista durant la manifestació d'extrema dreta davant la seu de l'ANC	1.75
+466	Viqui2_206	La majoria dels conspiradors van ser morts per la guàrdia del tirà i altres foren capturats i executats després de ser torturats.	Cinadó i els altres conspiradors van ser empresonats i després executats.	2.75
+467	Viqui2_673	Per a ús industrial, principalment la cel·lulosa s'obté a partir de polpa de fusta i el cotó.	S'utilitza en la fabricació de la cel·lulosa i com a additiu en la fabricació del vidre.	1.5
+468	Viqui2_186	Es conserva la boca, per on s'entrava la llenya a la cambra de combustió.	Es conserva la boca, una obertura al mur per on s'introduïa la llenya a la cambra de combustió.	4.25
+469	ACN2_946	Un incendi en un concessionari de cotxes obliga a desallotjar un bloc de pisos de Castelldefels	Un incendi en un basar oriental obliga a confinar els veïns d'un bloc de pisos a Rubí	1.75
+470	Oscar2_403	Està oberta al públic en general i és gratuïta.	És una activitat gratuïta oberta al públic general.	4.0
+471	Viqui2_561	Es troba a l'extrem occidental de la Garrotxa, al límit amb les comarques d'Osona i el Ripollès.	És a l'extrem sud-oest de la comarca, al límit amb les comarques del Ripollès, al sud, i l'Alta Cerdanya, al sud-oest.	2.5
+472	TE2_133	És autor de diverses antologies sobre escriptores catalanes contemporànies i de monografies sobre pintura i literatura.	És autor de diverses obres i articles sobre científics.	2.0
+473	ACN2_94	Segons estimacions de l'Oficina Central Nacional d'Estupefaents del Ministeri de l'Interior la droga comissada estaria valorada en uns 13.000 euros.	Segons estimacions de l'Oficina Central Nacional d'Estupefaents del Ministeri de l'Interior la droga estaria valorada en prop de 21.000 euros.	3.0
+474	Viqui2_525	Es va estrenar a la Salle Garnier de Montecarlo el 4 de març de 1913.	Es va estrenar a l'Òpera Garnier de París el 5 de maig de 1909.	2.75
+475	Viqui2_170	En època moderna aquesta antiga casa forta esdevingué masia.	En època moderna i contemporània aquesta antiga casa forta esdevingué masia.	3.75
+476	Viqui2_819	El primer club de la ciutat va ser el FC Bérgamo, fundat el 1904 per emigrants suïssos.	El club va ser fundat el 1904, amb el nom de FC Malinois.	2.0
+477	ACN2_1040	L’home xoca contra un vehicle mentre intentava escapar dels agents i acaba fugint a peu	Fuig després d’encastar-se amb el vehicle a Torredembarra i acaba detingut per agredir un agent	2.5
+478	Viqui2_610	A pocs quilòmetres al nord es troba el riu Sant Miquel o de les Coves i la seua desembocadura.	A aquesta costa desemboquen el barranc d'Estopet, al nord, i el riu Coves o Sant Miquel, al sud.	2.0
+479	Oscar2_109	L'horari d'atenció al públic és de 9 a 13.30h de dilluns a divendres i les tardes de dimecres i dijous de 15 a 18h.	Horari d'atenció al públic: de dilluns a dijous, de 10 a 14 i de 16.30 a 20h; divendres, de 10 a 14 h.	3.0
+480	ACN2_168	L'helicòpter dels Bombers va localitzar la víctima a una zona de barranquisme	L'helicòpter de rescat dels Bombers ha detectat la víctima al barranc de la Tartera	3.25
+481	Viqui2_284	El Tour de Ribas és una competició ciclista d'un sol dia que es fa a Ucraïna.	La París-Bourges és una cursa ciclista d'un dia que es disputa a França anualment.	2.67
+482	Viqui2_45	Està amenaçat pels canvis en el règim de foc.	Està amenaçat pel canvi climàtic i canvis en el règim de foc.	3.25
+483	ACN2_424	La plantació es repartia en diverses estances amb sistemes de reg, ventilació i enllumenat artificial	La plantació s'amagava en una habitatge i disposava de sistemes de reg i enllumenat artificial	3.5
+484	Viqui2_453	L'11 de juliol de 2007, va estendre i millorar el seu contracte que el vinculava amb el Reial Madrid fins a l'any 2012.	L'agost de 2014 va renovar el seu contracte amb el Reial Madrid fins al 2019.	2.75
+486	Viqui2_548	Morí el 25 de març de 1482 a la ciutat de Florència, i fou enterrada a la basílica de Sant Llorenç d'aquesta ciutat.	Morí precipitadament el 28 de febrer de 1621 a la ciutat de Florència, sent enterrat a la Basílica de Sant Llorenç de Florència.	2.75
+487	Oscar2_97	Els resultats van ser els següents:	Els resultats destacats van ser els següents:	4.0
+488	ACN2_65	Els agents de la Policia Local de Tàrrega que van participar en les detencions van ser atesos al CAP de Tàrrega per lesions lleus.	Els policies locals que van participar el l'arrest van ser atesos al CAP de Tàrrega per lesions lleus	4.5
+489	ACN2_695	Els Bombers han atès 167 avisos per inundacions en plantes baixes, locals i pàrquings, entre d’altres	286 avisos als Bombers: la majoria per inundacions de baixos, soterranis i garatges	3.0
+490	Viqui2_369	L'escut d'armes és modern; se'ls va concedir el 8 d'octubre de 1982.	L'escut d'armes és modern; se'ls va concedir el 13 de juliol de 1984.	3.0
+491	ACN2_1085	La sisena edició del certamen organitzat pel TRESC ha comptat amb 65 activitats organitzades a l'Antiga Fàbrica Estrella Damm	La 5a edició del certamen omple l'Antiga Fàbrica d'Estrella Damm de parades i conferències de gairebé un centenar d'autors	2.5
+492	ACN2_653	El president de la Generalitat ha reivindicat “l’esperit del diàleg” i el “fair play” al lliurament del Premi Blanquerna	Puigdemont reivindica “l’esperit del diàleg” i el “fair play” al lliurament del Premi Blanquerna a Vicente del Bosque	3.5
+493	ACN2_612	Una jove de Girona de 20 anys i un home de Barcelona de 38 eleven a 16 els casos de coronavirus a Catalunya	Un home de 97 anys i una dona de 88 eleven a tres els morts per coronavirus a Catalunya	2.0
+494	ACN2_354	A partir de primera hora de la tarda es registra trànsit intens a les vies principals de tornada de Barcelona	Les vies d'accés a Barcelona registren més retencions de les habituals a primera hora del matí	2.75
+495	TE2_213	La primera vegada que apareix documentat el topònim Benicull és en 1914.	El lloc apareix documentat per primera vegada el 1152.	2.75
+496	Oscar2_411	Francesc Roca, professor titular a la Universitat de Barcelona, i Mercè Morales, conservadora del Museu d'Història de Catalunya.	Agustí Alcoberro, professor d'Història a la Universitat de Barcelona, exdirector del Museu d'Història de Catalunya.	1.75
+497	ACN2_387	40 nous positius eleven a un centenar els casos confirmats de coronavirus a la demarcació de Tarragona	Setze morts i un centenar de nous casos confirmats de coronavirus a la demarcació de Tarragona	2.75
+498	ACN2_1045	Un sindicat de presons demana a Justícia el pla per fer-los els tests de coronavirus	Un sindicat de presons demana tests ràpids, EPI per a tots els treballadors i que la UME desinfecti mòduls tancats	2.75
+499	ACN2_427	La CNMV admet a tràmit la petició de l'OPA de Colonial sobre Axiare	La CNMV admet a tràmit l'OPA de la italiana Atlantia sobre Abertis	2.5
