@@ -31,8 +31,7 @@ def create_corpus(input_pairs: List[Tuple[str, str, float]], input_pairs_val: Li
     sentences_pairs_flattened = sentences_1_preproc + sentences_2_preproc
     diccionario = Dictionary(sentences_pairs_flattened)
     corpus = [diccionario.doc2bow(sent) for sent in sentences_pairs_flattened]
-
-    return corpus
+    return corpus, diccionario
 
 def stopwords_cat(path_stopwords: str = 'data_ts/stopwords_cat.txt') -> set:
     stopwords = set()
