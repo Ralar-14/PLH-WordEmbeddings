@@ -4,15 +4,7 @@ import numpy as np
 
 MAX_LEN: int = 96
 
-def model_ts(
-    input_length: int = MAX_LEN,
-    dictionary_size: int = 1000,
-    embedding_size: int = 16,
-    learning_rate: float = 1e-3,
-    pretrained_weights: Optional[np.ndarray] = None,
-    trainable: bool = False,
-    use_cosine: bool = False,
-) -> tf.keras.Model:
+def model_ts(input_length: int = MAX_LEN, dictionary_size: int = 1000, embedding_size: int = 16, learning_rate: float = 1e-3, pretrained_weights: Optional[np.ndarray] = None, trainable: bool = False, use_cosine: bool = False,) -> tf.keras.Model:
     # Inputs
     input_1 = tf.keras.Input((input_length,), dtype=tf.int32)
     input_2 = tf.keras.Input((input_length,), dtype=tf.int32)
@@ -96,4 +88,47 @@ def model_ts(
     model.compile(
         loss="mean_squared_error", optimizer=tf.keras.optimizers.Adam(learning_rate=learning_rate)
     )
+    return model
+
+def build_and_compile_model_better(embedding_size: int = 300, learning_rate: float = 1e-3) -> tf.keras.Model:
+    # Capa de entrada para los pares de vectores
+    input_1 = tf.keras.Input(shape=(embedding_size,))
+    input_2 = tf.keras.Input(shape=(embedding_size,))
+
+    # Hidden layer
+    first_projection = tf.keras.layers.Dense(
+        embedding_size,
+        kernel_initializer=tf.keras.initializers.Identity(),
+        bias_initializer=tf.keras.initializers.Zeros(),
+    )
+    projected_1 =  first_projection(input_1)
+    projected_2 = first_projection(input_2)
+    
+    # Compute the cosine distance using a Lambda layer
+    def normalized_product(x):
+        x1, x2 = x
+        x1_normalized = tf.keras.backend.l2_normalize(x1, axis=1)
+        x2_normalized = tf.keras.backend.l2_normalize(x2, axis=1)
+        return x1_normalized * x2_normalized
+
+    output = tf.keras.layers.Lambda(normalized_product)([projected_1, projected_2])
+    output = tf.keras.layers.Dropout(0.1)(output)
+    output = tf.keras.layers.Dense(
+        16,
+        activation="relu",
+    )(output)
+    output = tf.keras.layers.Dropout(0.2)(output)
+    output = tf.keras.layers.Dense(
+        1,
+        activation="sigmoid",
+    )(output)
+    
+    output = tf.keras.layers.Lambda(lambda x: x * 5)(output)
+    
+    # Define output
+    model = tf.keras.Model(inputs=[input_1, input_2], outputs=output)
+
+    # Compile the model
+    model.compile(loss='mean_squared_error',
+                  optimizer=tf.keras.optimizers.Adam(learning_rate))
     return model

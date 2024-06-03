@@ -2,6 +2,7 @@ import pandas as pd
 from gensim.corpora import Dictionary
 from gensim.utils import simple_preprocess
 from typing import List, Tuple, Callable
+import numpy as np
 
 def read_ts_data(path: str) -> pd.DataFrame:
     data = pd.read_csv(path, sep = '\t')
@@ -44,3 +45,8 @@ def preprocess(sentence: str, stopwords: set = stopwords_cat()) -> List[str]:
     preprocessed = simple_preprocess(sentence)
     preprocessed = [token for token in preprocessed if token not in stopwords]
     return preprocessed
+
+def pair_list_to_x_y(pair_list: List[Tuple[Tuple[np.ndarray, np.ndarray], int]]) -> Tuple[Tuple[np.ndarray, np.ndarray], np.ndarray]:
+    _x, _y = zip(*pair_list)
+    _x_1, _x_2 = zip(*_x)
+    return (np.row_stack(_x_1), np.row_stack(_x_2)), np.array(_y)
