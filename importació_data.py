@@ -50,3 +50,13 @@ def pair_list_to_x_y(pair_list: List[Tuple[Tuple[np.ndarray, np.ndarray], int]])
     _x, _y = zip(*pair_list)
     _x_1, _x_2 = zip(*_x)
     return (np.row_stack(_x_1), np.row_stack(_x_2)), np.array(_y)
+
+def flattened_corpus_count(corpus: List[List[Tuple[int, int]]]) -> dict:
+    corpus_aplanado = {}
+    for sentence in corpus:
+        for word in sentence:
+            if word[0] not in corpus_aplanado:
+                corpus_aplanado[word[0]] = word[1]
+            else:
+                corpus_aplanado[word[0]] += word[1]
+    return corpus_aplanado
