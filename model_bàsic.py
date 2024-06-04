@@ -1,5 +1,7 @@
 import tensorflow as tf
 from scipy.stats import pearsonr
+import numpy as np
+from typing import Tuple
 
 def build_and_compile_model_better(embedding_size: int = 300, learning_rate: float = 1e-3) -> tf.keras.Model:
     # Capa de entrada para los pares de vectores
@@ -44,7 +46,7 @@ def build_and_compile_model_better(embedding_size: int = 300, learning_rate: flo
                   optimizer=tf.keras.optimizers.Adam(learning_rate))
     return model
 
-def compute_pearson(model, x_, y_):
+def compute_pearson(model: tf.keras.Model, x_: Tuple[np.ndarray, np.ndarray], y_: np.ndarray) -> float:
     # Obtener las predicciones del modelo para los datos de prueba. En este ejemplo vamos a utilizar el corpus de training.
     y_pred = model.predict(x_)
     # Calcular la correlación de Pearson entre las predicciones y los datos de prueba
