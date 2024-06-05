@@ -34,8 +34,8 @@ def map_pairs_w2v(
         # Si usamos TF-IDF
         if tf_idf_model is not None:
             # Cálculo del promedio ponderado por TF-IDF de los word embeddings
-            vectors1, weights1 = map_tf_idf(sentence_1_preproc, dictionary=dictionary, tf_idf_model=tf_idf_model, )
-            vectors2, weights2 = map_tf_idf(sentence_2_preproc, dictionary=dictionary, tf_idf_model=tf_idf_model, )
+            vectors1, weights1 = map_tf_idf(sentence_1_preproc, embedding_model, dictionary=dictionary, tf_idf_model=tf_idf_model, )
+            vectors2, weights2 = map_tf_idf(sentence_2_preproc, embedding_model, dictionary=dictionary, tf_idf_model=tf_idf_model, )
             vector1 = np.average(vectors1, weights=weights1, axis=0, )
             vector2 = np.average(vectors2, weights=weights2, axis=0, )
         else:
