@@ -24,3 +24,12 @@ word2vec_tf_idf.py:
 
 spacy_embed.py:
     - map_spacy_embed
+
+roberta_base.py:
+    - get_roberta_embedding
+    - map_roberta_embed
+
+roberta_fine_tuned.py:
+    - prepare_roberta_ft
+    - x_y_split_roberta_ft
+    - compute_pearson_roberta_ft
