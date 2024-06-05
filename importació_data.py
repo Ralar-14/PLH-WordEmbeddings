@@ -19,10 +19,10 @@ def read_all_ts_data(train_path: str = 'data_ts\sts_cat_train_v1.tsv', test_path
 
 def reformat_data(train: pd.DataFrame, test: pd.DataFrame, val: pd.DataFrame
                   ) -> Tuple[List[Tuple[str, str, float]], List[Tuple[str, str, float]], List[Tuple[str, str, float]]]:
-    input_pairs = [(train["sentence1"][i], train["sentence2"][i], train["avg"][i]) for i in range(len(train))]
+    input_pairs_train = [(train["sentence1"][i], train["sentence2"][i], train["avg"][i]) for i in range(len(train))]
     input_pairs_val = [(val["sentence1"][i], val["sentence2"][i], val["avg"][i]) for i in range(len(val))]
     input_pairs_test = [(test["sentence1"][i], test["sentence2"][i], test["avg"][i]) for i in range(len(test))]
-    return input_pairs, input_pairs_val, input_pairs_test
+    return input_pairs_train, input_pairs_val, input_pairs_test
 
 def create_corpus(input_pairs: List[Tuple[str, str, float]], input_pairs_val: List[Tuple[str, str, float]], input_pairs_test: List[Tuple[str, str, float]], preprocess: Callable = simple_preprocess
                   ) -> Tuple[List[List[Tuple[int, int]]], Dictionary]:
@@ -39,7 +39,7 @@ def create_corpus(input_pairs: List[Tuple[str, str, float]], input_pairs_val: Li
 def stopwords_cat(path_stopwords: str = 'data_ts/stopwords_cat.txt'
                   ) -> set:
     stopwords = set()
-    with open(path_stopwords, 'r') as file:
+    with open(path_stopwords, 'r', encoding = 'utf-8') as file:
         for line in file:
             stopwords.add(line.strip())
     return stopwords
