@@ -9,6 +9,19 @@ from gensim.models.fasttext import FastTextKeyedVectors
 
 
 def map_tf_idf(sentence_preproc: List[str], embedding_model: FastTextKeyedVectors, dictionary: Dictionary, tf_idf_model: TfidfModel) -> Tuple[List[np.ndarray], List[float]]:
+    '''
+    Maps a preprocessed sentence to a list of word embeddings and a list of weights
+    
+    Parameters:
+    - sentence_preproc: List[str], preprocessed sentence
+    - embedding_model: FastTextKeyedVectors, gensim FastText model 
+    - dictionary: Dictionary, gensim Dictionary object
+    - tf_idf_model: TfidfModel, gensim TF-IDF model
+    
+    Returns:
+    - vectors: List[np.ndarray], list of word embeddings
+    - weights: List[float], list of weights
+    '''
     bow = dictionary.doc2bow(sentence_preproc)
     tf_idf = tf_idf_model[bow]
     vectors, weights = [], []
@@ -26,6 +39,19 @@ def map_pairs_w2v(
         tf_idf_model: TfidfModel = None,
         preprocess: Callable[[str], List[str]] = simple_preprocess,
 ) -> List[Tuple[Tuple[np.ndarray, np.ndarray], float]]:
+    '''
+    Maps a list of sentence pairs to a list of pairs of word embeddings
+
+    Parameters:
+    - sentence_pairs: List[Tuple[str, str, float]], list of tuples with the training data
+    - embedding_model: FastTextKeyedVectors, gensim FastText model
+    - dictionary: Dictionary, gensim Dictionary object
+    - tf_idf_model: TfidfModel, gensim TF-IDF model
+    - preprocess: Callable[[str], List[str]], function to preprocess the sentences
+
+    Returns:
+    - pairs_vectors: List[Tuple[Tuple[np.ndarray, np.ndarray], float]], list of tuples with the word embeddings and the similarity score
+    '''
     # Mapeo de los pares de oraciones a pares de vectores
     pares_vectores = []
     for (sentence_1, sentence_2, similitud) in sentence_pairs:
