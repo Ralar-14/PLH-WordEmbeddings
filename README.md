@@ -33,3 +33,9 @@ roberta_fine_tuned.py:
     - prepare_roberta_ft
     - x_y_split_roberta_ft
     - compute_pearson_roberta_ft
+
+trainable_embed_model:
+    - map_word_embeddings
+    - map_w2v_trainable
+    - pair_list_to_x_y
+    - model_2

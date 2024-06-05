@@ -1,7 +1,96 @@
 import tensorflow as tf
+from typing import List, Tuple, Optional
+import numpy as np
+from gensim.corpora import Dictionary
+from gensim.utils import simple_preprocess
 
+def map_word_embeddings(
+        sentence: str,
+        sequence_len: int,
+        fixed_dictionary: Optional[Dictionary] = None,
+        wv_model: Optional[tf.keras.layers.Embedding] = None
+) -> np.ndarray:
+    """
+    Map to word-embedding indices
+    :param sentence:
+    :param sequence_len:
+    :param fixed_dictionary:
+    :return:
+    """
+    sentence_preproc = simple_preprocess(sentence)[:sequence_len]
+    _vectors = np.zeros(sequence_len, dtype=np.int32)
+    index = 0
+    for word in sentence_preproc:
+        if fixed_dictionary is not None:
+            if word in fixed_dictionary.token2id:
+                # Sumo 1 porque el valor 0 está reservado a padding
+                _vectors[index] = fixed_dictionary.token2id[word] + 1
+                index += 1
+        else:
+            if word in wv_model.key_to_index:
+                _vectors[index] = wv_model.key_to_index[word] + 1
+                index += 1
+    return _vectors
+
+def map_w2v_trainable(
+        wv_model: tf.keras.layers.Embedding,
+    sentence_pairs: List[Tuple[str, str, float]],
+    sequence_len: int,
+    fixed_dictionary: Optional[Dictionary] = None
+) -> List[Tuple[Tuple[np.ndarray, np.ndarray], float]]:
+    '''
+    Mapea los pares de oraciones a pares de vectores
+    
+    Parameters:
+    - wv_model: Modelo de embeddings entrenable
+    - sentence_pairs: Lista de pares de oraciones
+    - sequence_len: Longitud de las secuencias
+    - fixed_dictionary: Diccionario fijo de palabras
+    
+    Returns:
+    - pares_vectores: Lista de pares de vectores
+    '''
+    # Mapeo de los pares de oraciones a pares de vectores
+    pares_vectores = []
+    for i, (sentence_1, sentence_2, similitud) in enumerate(sentence_pairs):
+        vector1 = map_word_embeddings(sentence_1, sequence_len, fixed_dictionary, wv_model)
+        vector2 = map_word_embeddings(sentence_2, sequence_len, fixed_dictionary, wv_model)
+        # Añadir a la lista
+        pares_vectores.append(((vector1, vector2), similitud))
+    return pares_vectores
+
+def pair_list_to_x_y(pair_list: List[Tuple[Tuple[np.ndarray, np.ndarray], int]]) -> Tuple[Tuple[np.ndarray, np.ndarray], np.ndarray]:
+    '''
+    Convierte una lista de pares de vectores a un par de arrays de vectores y un array de etiquetas
+    
+    Parameters:
+    - pair_list: Lista de pares de vectores
+    
+    Returns:
+    - x: Par de arrays de vectores
+    - y: Array de etiquetas
+    '''
+    _x, _y = zip(*pair_list)
+    _x_1, _x_2 = zip(*_x)
+    return (np.row_stack(_x_1), np.row_stack(_x_2)), np.array(_y)
+
+class MyLayer_mask(tf.keras.layers.Layer):
+    def call(self, x):
+        return tf.not_equal(x, 0)
+    
+class MyLayer_exp(tf.keras.layers.Layer):
+    def call(self, x):
+        return tf.exp(x)
+    
+class MyLayer_cast(tf.keras.layers.Layer):
+    def call(self, x):
+        return tf.cast(x, tf.float32)
+    
+class MyLayer_reduce_sum(tf.keras.layers.Layer):
+    def call(self, x):
+        return tf.reduce_sum(x, axis=1, keepdims=True)
 def model_2(
-    input_length: int = MAX_LEN,
+    input_length: int,
     dictionary_size: int = 1000,
     embedding_size: int = 16,
     learning_rate: float = 1e-3,
@@ -35,7 +124,7 @@ def model_2(
     embedded_1 = embedding(input_1)
     embedded_2 = embedding(input_2)
     # Pass through the embedding layer
-    _input_mask_1, _input_mask_2 = tf.not_equal(input_1, 0), tf.not_equal(input_2, 0)
+    _input_mask_1, _input_mask_2 = MyLayer_mask()(input_1), MyLayer_mask()(input_2)
 
     # Attention Mechanism
     attention_mlp = tf.keras.Sequential([
@@ -48,15 +137,14 @@ def model_2(
     attention_weights_1 = attention_mlp(embedded_1)  
     attention_weights_2 = attention_mlp(embedded_2) 
     # Mask the attention weights
-    attention_weights_1 = tf.exp(attention_weights_1) * tf.cast(_input_mask_1[:, :, None], tf.float32)
-    attention_weights_2 = tf.exp(attention_weights_2) * tf.cast(_input_mask_2[:, :, None], tf.float32)
+    attention_weights_1 = MyLayer_exp()(attention_weights_1) * MyLayer_cast()(_input_mask_1[:, :, None])
+    attention_weights_2 = MyLayer_exp()(attention_weights_2) * MyLayer_cast()(_input_mask_2[:, :, None])
     # Normalize attention weights
-    attention_weights_1 = attention_weights_1 / tf.reduce_sum(attention_weights_1, axis=1, keepdims=True)
-    attention_weights_2 = attention_weights_2 / tf.reduce_sum(attention_weights_2, axis=1, keepdims=True)
+    attention_weights_1 = attention_weights_1 / MyLayer_reduce_sum()(attention_weights_1)
+    attention_weights_2 = attention_weights_2 / MyLayer_reduce_sum()(attention_weights_2)
     # Compute context vectors
-    projected_1 = tf.reduce_sum(embedded_1 * attention_weights_1, axis=1) 
-    projected_2 = tf.reduce_sum(embedded_2 * attention_weights_2, axis=1) 
-    
+    projected_1 = MyLayer_reduce_sum()(embedded_1 * attention_weights_1) 
+    projected_2 = MyLayer_reduce_sum()(embedded_2 * attention_weights_2) 
     
     if use_cosine:
         # Compute the cosine distance using a Lambda layer
