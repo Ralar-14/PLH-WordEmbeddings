@@ -89,6 +89,7 @@ class MyLayer_cast(tf.keras.layers.Layer):
 class MyLayer_reduce_sum(tf.keras.layers.Layer):
     def call(self, x):
         return tf.reduce_sum(x, axis=1, keepdims=True)
+    
 def model_2(
     input_length: int,
     dictionary_size: int = 1000,
@@ -133,6 +134,7 @@ def model_2(
         tf.keras.layers.Dropout(0.2),
         tf.keras.layers.Dense(1)
     ])
+    
     # Apply attention to each embedding
     attention_weights_1 = attention_mlp(embedded_1)  
     attention_weights_2 = attention_mlp(embedded_2) 
