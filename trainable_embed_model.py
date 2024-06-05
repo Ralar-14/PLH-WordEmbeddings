@@ -74,6 +74,8 @@ def pair_list_to_x_y(pair_list: List[Tuple[Tuple[np.ndarray, np.ndarray], int]])
     _x_1, _x_2 = zip(*_x)
     return (np.row_stack(_x_1), np.row_stack(_x_2)), np.array(_y)
 
+# Aquestes classes són necessàries per a poder fer servir les funcions de TensorFlow.
+
 class MyLayer_mask(tf.keras.layers.Layer):
     def call(self, x):
         return tf.not_equal(x, 0)
@@ -87,8 +89,8 @@ class MyLayer_cast(tf.keras.layers.Layer):
         return tf.cast(x, tf.float32)
     
 class MyLayer_reduce_sum(tf.keras.layers.Layer):
-    def call(self, x):
-        return tf.reduce_sum(x, axis=1, keepdims=True)
+    def call(self, x, _keepdims=True):
+        return tf.reduce_sum(x, axis=1, keepdims=_keepdims)
     
 def model_2(
     input_length: int,
@@ -145,8 +147,8 @@ def model_2(
     attention_weights_1 = attention_weights_1 / MyLayer_reduce_sum()(attention_weights_1)
     attention_weights_2 = attention_weights_2 / MyLayer_reduce_sum()(attention_weights_2)
     # Compute context vectors
-    projected_1 = MyLayer_reduce_sum()(embedded_1 * attention_weights_1) 
-    projected_2 = MyLayer_reduce_sum()(embedded_2 * attention_weights_2) 
+    projected_1 = MyLayer_reduce_sum()(embedded_1 * attention_weights_1, _keepdims=False) 
+    projected_2 = MyLayer_reduce_sum()(embedded_2 * attention_weights_2, _keepdims=False) 
     
     if use_cosine:
         # Compute the cosine distance using a Lambda layer
